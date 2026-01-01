@@ -1,0 +1,1002 @@
+name,lat,lon,district,tier,capacity
+Fort York  Blvd / Capreol Ct,43.639832,-79.395954,Entertainment District,Tier-1-Core,47
+Wellesley Station Green P,43.66496415990742,-79.38355031526893,South,Tier-1-Core,23
+St. George St / Bloor St W,43.66713121831853,-79.3995550638237,U of T - Hospital Row,Tier-1-Core,19
+Madison Ave / Bloor St W,43.66701830465472,-79.4027958687172,Annex,Tier-2-Feeder,15
+King St W / York St,43.6480008,-79.383177,Financial District,Tier-1-Core,26
+Bay St / College St (East Side),43.660439,-79.385525,U of T - Hospital Row,Tier-1-Core,31
+College St / Huron St,43.658148,-79.398167,U of T - Hospital Row,Tier-1-Core,19
+Wellesley St W / Queen's Park Cres,43.663376,-79.392125,U of T - Hospital Row,Tier-1-Core,19
+King St E / Jarvis St,43.650325,-79.372287,Financial District,Tier-1-Core,25
+King St W / Spadina Ave,43.64514249449372,-79.39510358283808,Entertainment District,Tier-1-Core,19
+Scott St / The Esplanade,43.64659663170443,-79.37530913867988,Financial District,Tier-1-Core,19
+Sherbourne St / Carlton St (Allan Gardens),43.663102,-79.373181,Church Wellesley / Yorkville,Tier-1-Core,17
+King St W / Bay St (West Side),43.64852,-79.380576,Core-Correction,Tier-3-Ignore,39
+Bay St / Queens Quay W (Ferry Terminal),43.640978,-79.376785,Waterfront,Tier-1-Core,35
+Widmer St / Adelaide St W - SMART,43.647547634759206,-79.39155200496292,Entertainment District,Tier-1-Core,12
+Bremner Blvd / Rees St,43.641529,-79.386741,Waterfront,Tier-1-Core,49
+Temperance St Station,43.650945,-79.379498,South,Tier-1-Core,55
+Phoebe St / Spadina Ave,43.650033,-79.396555,Entertainment District,Tier-1-Core,32
+Bay St / Albert St,43.653264,-79.382458,Financial District,Tier-1-Core,63
+College St / Borden St,43.6571,-79.4056,College - Harbord,Tier-2-Feeder,11
+Dundonald St / Church St,43.66663,-79.38148,Church Wellesley / Yorkville,Tier-1-Core,39
+Ted Rogers Way / Bloor St E,43.671293,-79.380471,Church Wellesley / Yorkville,Tier-1-Core,26
+Bay St / St. Joseph St,43.665527,-79.387499,U of T - Hospital Row,Tier-1-Core,15
+Beverley St / Dundas St W,43.652823,-79.393388,Entertainment District,Tier-1-Core,31
+Gould St / Mutual St,43.6582,-79.3768,Financial District,Tier-1-Core,30
+Bay St / Bloor St W (East Side),43.66943,-79.38915,Church Wellesley / Yorkville,Tier-1-Core,15
+Bay St / Wellesley St W,43.664088,-79.387095,U of T - Hospital Row,Tier-1-Core,35
+Jarvis St / Isabella St,43.668991,-79.379385,Church Wellesley / Yorkville,Tier-1-Core,39
+Augusta Ave / Dundas St W,43.652473,-79.401456,College - Harbord,Tier-2-Feeder,15
+Union Station,43.645609,-79.380386,Financial District,Tier-1-Core,27
+Church St / Bloor St E,43.671389,-79.382919,Church Wellesley / Yorkville,Tier-1-Core,15
+Queen St W / Ossington Ave,43.643975,-79.419576,Liberty Village,Tier-2-Feeder,43
+Trinity St /Front St E,43.651318,-79.36023,Distillery District,Tier-1-Core,19
+Bathurst St / Dundas St W,43.6518918789007,-79.40577861712723,College - Harbord,Tier-2-Feeder,27
+Dundas St W / Yonge St,43.656094,-79.381484,Financial District,Tier-1-Core,31
+Simcoe St / Michael Sweet Ave,43.652327224103,-79.3882538196087,Financial District,Tier-1-Core,19
+Euclid Ave / Bloor St W,43.664467,-79.414783,Annex,Tier-2-Feeder,19
+Edward St / Yonge St,43.656729,-79.382736,Financial District,Tier-1-Core,23
+Sherbourne St / Wellesley St E,43.6673,-79.374,Church Wellesley / Yorkville,Tier-1-Core,31
+Queens Quay W / Lower Simcoe St,43.63951,-79.383717,Waterfront,Tier-1-Core,19
+Church St / Alexander St,43.663722,-79.380288,Church Wellesley / Yorkville,Tier-1-Core,35
+Bond St / Queen St E,43.653236,-79.376716,Financial District,Tier-1-Core,37
+Niagara St / Richmond St W,43.64534,-79.409597,Liberty Village,Tier-2-Feeder,42
+University Ave / Gerrard St W (East Side),43.657763,-79.389165,South,Tier-1-Core,25
+Front St W / Yonge St (Hockey Hall of Fame),43.646322912152456,-79.37746467249836,Financial District,Tier-1-Core,47
+Portland St / Queen St W,43.6476,-79.4015,Entertainment District,Tier-1-Core,7
+Richmond St E / Jarvis St Green P,43.652634,-79.374222,South,Tier-3-Ignore,16
+Wellington St W / Bay St,43.647259,-79.379878,Financial District,Tier-1-Core,55
+Metro Hall Plaza,43.645859,-79.38783,Financial District,Tier-1-Core,27
+Navy Wharf Crt / Bremner Blvd,43.640722,-79.391051,Waterfront,Tier-1-Core,11
+Jarvis St / Carlton St,43.66207,-79.37617,Church Wellesley / Yorkville,Tier-1-Core,12
+Simcoe St / Wellington St W South,43.6458569,-79.3853654,Financial District,Tier-1-Core,27
+Huron St / Harbord St,43.6637,-79.400053,South,Tier-3-Ignore,39
+Front St W / Blue Jays Way,43.643473,-79.390477,Waterfront,Tier-1-Core,15
+Dalton Rd / Bloor St W,43.6662942,-79.4066433,Annex,Tier-2-Feeder,15
+Queen's Park / Bloor St W,43.668456,-79.393899,Church Wellesley / Yorkville,Tier-1-Core,23
+51 Parliament St,43.652169,-79.362841,Distillery District,Tier-1-Core,19
+Dundas St E / Parliament St,43.659575,-79.365769,Distillery District,Tier-1-Core,15
+Willcocks St / St. George St,43.662085,-79.397735,U of T - Hospital Row,Tier-1-Core,15
+Yonge St / Lake Shore Blvd E,43.643795,-79.375413,Unknown,Tier-3-Ignore,29
+Queen St W / Spadina Ave,43.649147,-79.395504,Entertainment District,Tier-1-Core,11
+25 York St â€“ Union Station South,43.643667,-79.380414,Waterfront,Tier-1-Core,11
+161 Bleecker St (South of Wellesley),43.666233,-79.373327,Church Wellesley / Yorkville,Tier-1-Core,23
+Spadina Ave / Fort York Blvd,43.640114,-79.393249,Entertainment District,Tier-1-Core,23
+King St E / Church St,43.65003919999999,-79.3733541,Financial District,Tier-1-Core,35
+Queens Quay W / Dan Leckie Way,43.636533,-79.395854,South,Tier-3-Ignore,27
+York St / Queens Quay W,43.640132,-79.380464,Waterfront,Tier-1-Core,57
+College Park South,43.65945682499,-79.38236466864778,U of T - Hospital Row,Tier-1-Core,19
+College St / Major St,43.6576,-79.4032,College - Harbord,Tier-2-Feeder,15
+McGill St / Church St,43.660694,-79.379052,Church Wellesley / Yorkville,Tier-1-Core,19
+Danforth Ave / Barrington Ave,43.688325,-79.300463,Danforth,Tier-2-Feeder,15
+High Park - Grenadier Cafe,43.645599,-79.4657123,Bloor St W - High Park,Tier-3-Ignore,11
+Danforth Ave / Westlake Ave,43.687323,-79.304848,Danforth,Tier-2-Feeder,15
+High Park - West Rd,43.651922,-79.465693,Bloor St W - High Park,Tier-3-Ignore,23
+Danforth Ave / Aldridge Ave,43.684758,-79.316767,Danforth,Tier-2-Feeder,11
+Danforth Ave / Coxwell Ave,43.683378,-79.322961,Danforth,Tier-2-Feeder,15
+Church St  / Wood St,43.662712,-79.379903,Church Wellesley / Yorkville,Tier-1-Core,27
+Danforth Ave / Lamb Ave,43.681991,-79.329455,Danforth,Tier-2-Feeder,19
+Donlands Subway Station,43.681114,-79.3373885,Danforth,Tier-2-Feeder,15
+Danforth Ave / Gough Ave,43.678401,-79.346289,Danforth,Tier-2-Feeder,24
+14 Arundel Ave,43.6784834,-79.3513564,East,Tier-3-Ignore,24
+Danforth Ave / Ellerbeck St,43.677076,-79.35667,Danforth,Tier-2-Feeder,14
+Lower Don River Trail and Taylor Creek Trail,43.7027268,-79.33368089999999,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,19
+Riverdale Park North (Broadview Ave),43.671172,-79.354704,Leslieville - Woodbine,Tier-2-Feeder,15
+Riverdale Park South (Broadview Ave),43.667819,-79.35347,Leslieville - Woodbine,Tier-2-Feeder,15
+Mill St / Cherry St,43.65141432968699,-79.35680471562972,East,Tier-3-Ignore,39
+Dundas St E / Regent Park Blvd,43.660207,-79.361275,Distillery District,Tier-1-Core,27
+Lower Sherbourne St / The Esplanade,43.648655,-79.367061,Distillery District,Tier-1-Core,27
+Nelson St / Duncan St,43.648711,-79.389728,Entertainment District,Tier-1-Core,31
+Jimmie Simpson Park (Queen St E),43.6605603,-79.3437663,Leslieville - Woodbine,Tier-2-Feeder,33
+King St E / River St,43.656784782853144,-79.35627385059036,Distillery District,Tier-1-Core,15
+Queen St E / Sackville St,43.6561111,-79.36138888888888,Distillery District,Tier-1-Core,15
+Mill St / Tannery Rd,43.652151817184,-79.35458218097422,Distillery District,Tier-1-Core,23
+Cherry St / Distillery Ln,43.650279,-79.356832,Distillery District,Tier-1-Core,15
+Seaton St / Dundas St E - SMART,43.658777,-79.369596,Distillery District,Tier-1-Core,32
+Queen St E / Berkeley St,43.6552778,-79.36583333333333,Distillery District,Tier-1-Core,15
+King St W / Douro St,43.640885,-79.416379,Liberty Village,Tier-2-Feeder,11
+Liberty St / Fraser Ave Green P,43.637981,-79.424146,Liberty Village,Tier-2-Feeder,19
+Parliament St / Aberdeen Ave,43.665278,-79.368333,Church Wellesley / Yorkville,Tier-1-Core,15
+Carlton St / Parliament St,43.664524,-79.36793,Church Wellesley / Yorkville,Tier-1-Core,26
+Howard St / Sherbourne St,43.6712581,-79.376367,Church Wellesley / Yorkville,Tier-1-Core,31
+Bloor St E / Parliament St,43.671946102001826,-79.37245115337294,Church Wellesley / Yorkville,Tier-1-Core,19
+Castle Frank Subway Station,43.67418030086386,-79.36795839711793,Church Wellesley / Yorkville,Tier-1-Core,19
+King St W / Bay St (East Side),43.648575,-79.380042,Financial District,Tier-1-Core,19
+Sumach St / Carlton St (Riverdale Farm),43.665867,-79.362506,Church Wellesley / Yorkville,Tier-1-Core,15
+Gerrard St E / River St,43.663993,-79.358534,Distillery District,Tier-1-Core,10
+Jarvis St / Dundas St E,43.657266,-79.374756,Distillery District,Tier-1-Core,27
+Niagara St / Tecumseth St,43.641389,-79.404444,Entertainment District,Tier-1-Core,15
+420 Wellington St W,43.643834,-79.396649,Entertainment District,Tier-1-Core,15
+Dundas St E / Broadview Ave,43.662365,-79.351104,Leslieville - Woodbine,Tier-2-Feeder,19
+Yonge St / Yorkville Ave,43.671944,-79.387778,Church Wellesley / Yorkville,Tier-1-Core,17
+Bay St / Scollard St,43.672152,-79.39018,Church Wellesley / Yorkville,Tier-1-Core,15
+Yonge St / Aylmer Ave,43.675492,-79.388858,Davenport - Dupont,Tier-2-Feeder,23
+Davenport Rd / Avenue Rd,43.674991,-79.396273,Davenport - Dupont,Tier-2-Feeder,11
+Davenport Rd / Bedford Rd,43.674446,-79.398331,Davenport - Dupont,Tier-2-Feeder,15
+Taddle Creek Park,43.66986,-79.398443,Annex,Tier-2-Feeder,15
+Kendal Ave / Spadina Rd,43.670318,-79.405181,Annex,Tier-2-Feeder,9
+Summerhill Subway Station,43.68201189061227,-79.39130701852416,Davenport - Dupont,Tier-2-Feeder,11
+Hanna Ave / Liberty St,43.638608601636705,-79.41965437361068,Liberty Village,Tier-2-Feeder,35
+Davenport Rd / Bathurst St,43.676667,-79.416111,Davenport - Dupont,Tier-2-Feeder,15
+Davenport Rd / Christie St,43.675278,-79.423889,Annex,Tier-2-Feeder,27
+Glen Edyth Dr / Davenport Rd,43.677778,-79.405556,Davenport - Dupont,Tier-2-Feeder,15
+Macpherson Ave / Spadina Rd,43.675791,-79.40698,Davenport - Dupont,Tier-2-Feeder,15
+Bridgman Ave / Kendal Ave,43.675556,-79.410278,Davenport - Dupont,Tier-2-Feeder,15
+Bridgman Ave / Bathurst St,43.674444,-79.414722,Davenport - Dupont,Tier-2-Feeder,15
+Kendal Ave / Bernard Ave,43.671513,-79.408317,Annex,Tier-2-Feeder,15
+Palmerston Ave / Vermont Ave,43.671389,-79.416389,Davenport - Dupont,Tier-2-Feeder,15
+Christie St / Benson Ave (Wychwood Barns),43.68,-79.42500000000001,St Clair Ave W,Tier-3-Ignore,19
+King St W / Fraser Ave,43.6394444,-79.42527777777778,Liberty Village,Tier-2-Feeder,15
+King St W / Joe Shuster Way,43.639444,-79.423611,Liberty Village,Tier-2-Feeder,23
+Yarmouth Rd / Christie St,43.67,-79.42083333333333,Davenport - Dupont,Tier-2-Feeder,11
+Dufferin St / Sylvan Av (Dufferin Grove Park),43.6555556,-79.43361111111112,Annex,Tier-2-Feeder,19
+Essex St / Christie St,43.6686111,-79.42027777777778,Davenport - Dupont,Tier-2-Feeder,19
+Ossington Ave / Bloor St W,43.66171041271702,-79.42559160724657,Annex,Tier-2-Feeder,11
+Bloor St W / Christie St,43.6638889,-79.41888888888889,Annex,Tier-2-Feeder,19
+Bathurst Subway Station,43.6666667,-79.41166666666668,Annex,Tier-2-Feeder,23
+Bathurst St / Lennox St,43.663808,-79.410491,Annex,Tier-2-Feeder,19
+Salem Ave / Bloor St W,43.6608333,-79.43166666666667,Annex,Tier-2-Feeder,15
+Dufferin St / Bloor St W,43.66083333333333,-79.43583333333333,Annex,Tier-2-Feeder,23
+King St W / Stafford St,43.6422222,-79.41111111111111,Liberty Village,Tier-2-Feeder,15
+King St W / Tecumseth St,43.64333333333333,-79.40555555555557,Entertainment District,Tier-1-Core,19
+Beverley St / College St,43.6575,-79.39527777777778,U of T - Hospital Row,Tier-1-Core,23
+Hayter St / La Plante Ave,43.6591666666667,-79.3855555555556,U of T - Hospital Row,Tier-1-Core,22
+Gould St / Yonge St (TMU),43.657424,-79.381019,Financial District,Tier-1-Core,23
+Queens Quay / Yonge St,43.641646,-79.375308,Waterfront,Tier-1-Core,47
+Front St W / Bay St (North Side),43.646162,-79.378912,Financial District,Tier-1-Core,11
+Spadina Ave / Willcocks St,43.6616667,-79.40138888888889,U of T - Hospital Row,Tier-1-Core,15
+Ontario Place Blvd / Lake Shore Blvd W,43.6322445,-79.4108105,Waterfront,Tier-1-Core,27
+Strachan Ave / Princes' Blvd,43.635,-79.4088888888889,Liberty Village,Tier-2-Feeder,19
+Cariboo Ave / Railpath Trail,43.66666667,-79.45833333333334,Davenport - Dupont,Tier-2-Feeder,19
+Bloor St W / Dundas St W,43.6563889,-79.45166666666667,Annex,Tier-2-Feeder,15
+HTO Park (Queens Quay W),43.63796,-79.387502,Waterfront,Tier-1-Core,27
+Bathurst St / Fort York Blvd,43.639179,-79.399595,Entertainment District,Tier-1-Core,19
+Dundas St W / Edna Ave,43.657192,-79.452559,Annex,Tier-2-Feeder,15
+Lansdowne Ave / Whytock Ave,43.6538888888889,-79.4413888888889,College - Harbord,Tier-2-Feeder,15
+Sterling Rd / Dundas St W,43.6508333333333,-79.4430555555556,College - Harbord,Tier-2-Feeder,19
+St Clarens Ave / College St,43.651238,-79.43868,College - Harbord,Tier-2-Feeder,15
+Ossington Ave / College St,43.6544915,-79.422634,College - Harbord,Tier-2-Feeder,11
+Exhibition GO (Atlantic Ave),43.637695491830144,-79.42023184193503,Liberty Village,Tier-2-Feeder,35
+Augusta Ave / Denison Sq,43.653766,-79.4016759,College - Harbord,Tier-2-Feeder,15
+St. George St / Hoskin Ave,43.6637403,-79.39806449999999,U of T - Hospital Row,Tier-1-Core,15
+Central Tech  (Harbord St),43.661975,-79.407896,Annex,Tier-2-Feeder,11
+Harbord St / Clinton St,43.660414,-79.415646,Annex,Tier-2-Feeder,15
+Dufferin St / Queen St W,43.64309687937765,-79.42875613770637,Liberty Village,Tier-2-Feeder,15
+Mortimer Ave / Coxwell Ave,43.690564,-79.326319,Danforth,Tier-2-Feeder,23
+Ulster St / Bathurst St,43.66,-79.4088888888889,College - Harbord,Tier-2-Feeder,11
+Roxton Rd / Harbord St,43.65905,-79.422988,College - Harbord,Tier-2-Feeder,10
+Queen St W / Dovercourt Rd,43.6438602,-79.4227573,Liberty Village,Tier-2-Feeder,11
+Queen St W / Cowan Ave,43.64089724173822,-79.43283582518329,Liberty Village,Tier-2-Feeder,19
+College St / Markham St,43.6563888888889,-79.4091666666667,College - Harbord,Tier-2-Feeder,19
+York St / Queen St W (City Hall),43.65160619179464,-79.38404693334348,Financial District,Tier-1-Core,27
+Bathurst St/Queens Quay(Billy Bishop Airport),43.635492,-79.398253,Waterfront,Tier-1-Core,35
+College St / Crawford St,43.655,-79.418889,College - Harbord,Tier-2-Feeder,19
+Rusholme Park Cres / College St,43.65277778,-79.42972222,College - Harbord,Tier-2-Feeder,15
+Claremont St / Dundas St W,43.651281,-79.411717,College - Harbord,Tier-2-Feeder,13
+Dundas St W / Crawford St,43.649722,-79.416944,College - Harbord,Tier-2-Feeder,47
+80 Clinton St,43.656296,-79.414663,College - Harbord,Tier-2-Feeder,15
+Ossington Ave / Harrison St,43.651111111111106,-79.4213888888889,College - Harbord,Tier-2-Feeder,19
+Mary McCormick Rec Centre (Sheridan Ave),43.6475,-79.43305555555555,College - Harbord,Tier-2-Feeder,15
+Fort York Blvd / Garrison Rd,43.637381,-79.406112,Entertainment District,Tier-1-Core,15
+Wellington St W / Stafford St,43.6409957,-79.40966630000001,Liberty Village,Tier-2-Feeder,22
+Soho St / Queen St W,43.649649714291584,-79.39372141352654,Entertainment District,Tier-1-Core,15
+Lake Shore Blvd W / Ellis Ave,43.635932,-79.465083,Humber Bay Shores,Tier-3-Ignore,19
+High Park Subway Station,43.6543604,-79.4655296,Bloor St W - High Park,Tier-3-Ignore,11
+Sunnyside - Gus Ryder Pool,43.637894,-79.454823,Humber Bay Shores,Tier-3-Ignore,27
+Parkside Dr / Bloor St W - SMART,43.654501,-79.460053,Bloor St W - High Park,Tier-3-Ignore,12
+Bloor St W / High Park Ave (High Park),43.6535269,-79.4650569,Bloor St W - High Park,Tier-3-Ignore,23
+Lake Shore Blvd W / Windermere Ave,43.634896,-79.467763,Humber Bay Shores,Tier-3-Ignore,19
+Lake Shore Blvd W / The Boulevard Club,43.636731,-79.444966,Waterfront,Tier-1-Core,19
+Martin Goodman Trail (Marilyn Bell Park),43.6314,-79.4304,Waterfront,Tier-1-Core,31
+King St W / Wilson Park Blvd,43.6372958,-79.4423237,Liberty Village,Tier-2-Feeder,19
+Dundas St W / Roncesvalles Ave Green P -SMART,43.6534268,-79.4512787,College - Harbord,Tier-2-Feeder,12
+Garden Ave / Roncesvalles Ave,43.643769,-79.447915,College - Harbord,Tier-2-Feeder,19
+Wright Ave / Sorauren Ave - SMART,43.646677,-79.442741,College - Harbord,Tier-2-Feeder,18
+Queen St W  /  Fuller Ave - SMART,43.640255,-79.439223,Liberty Village,Tier-2-Feeder,16
+King St W / Cowan Ave - SMART,43.637922,-79.431734,Liberty Village,Tier-2-Feeder,16
+Roncesvalles Ave / Marmaduke St,43.650492,-79.450842,College - Harbord,Tier-2-Feeder,19
+Bay St / College St (West Side) - SMART,43.660087,-79.385655,U of T - Hospital Row,Tier-1-Core,16
+Thompson St / Broadview Ave - SMART,43.659471,-79.350325,Leslieville - Woodbine,Tier-2-Feeder,23
+Ward St / Wallace Ave,43.662857,-79.44618,Davenport - Dupont,Tier-2-Feeder,15
+Sorauren Ave / Geoffrey St - SMART,43.649172,-79.4445087,College - Harbord,Tier-2-Feeder,16
+Bloor St W / Manning Ave - SMART,43.663912,-79.416124,Annex,Tier-2-Feeder,42
+Bloor St W / Shaw St - SMART,43.662403,-79.423098,Annex,Tier-2-Feeder,34
+519 Church St ,43.6668334195837,-79.38120391054117,South,Tier-3-Ignore,11
+Lake Shore Blvd W / Ontario Dr,43.630254,-79.420317,Waterfront,Tier-1-Core,35
+Exhibition GO Station,43.6352007,-79.4187711,Liberty Village,Tier-2-Feeder,14
+Dufferin Gate - SMART,43.633473,-79.425679,Waterfront,Tier-1-Core,16
+Yonge St / Bloor St,43.669969,-79.386532,Church Wellesley / Yorkville,Tier-1-Core,19
+Howard Park Ave / Dundas St W - SMART,43.6521,-79.4486,West,Tier-3-Ignore,12
+Baldwin St / Spadina Ave - SMART,43.654905,-79.398448,College - Harbord,Tier-2-Feeder,20
+144 Harrison St,43.651145,-79.423742,West,Tier-3-Ignore,51
+Ursula Franklin St / St. George St - SMART,43.660296,-79.397107,South,Tier-3-Ignore,16
+Robert St / Bloor St W - SMART,43.665846,-79.404998,Annex,Tier-2-Feeder,18
+John St  / Mercer St - SMART,43.6461,-79.3895,Financial District,Tier-1-Core,12
+Vanauley St / Queen St W - SMART,43.648437,-79.39838,Entertainment District,Tier-1-Core,12
+Dundas St W / St. Patrick St,43.6545174,-79.3895315,U of T - Hospital Row,Tier-1-Core,19
+Queen St E / Rushbrooke Ave,43.6626628,-79.3323698,Leslieville - Woodbine,Tier-2-Feeder,15
+Lower Spadina Ave / Lake Shore Blvd W,43.638497,-79.39192,Waterfront,Tier-1-Core,19
+Spadina Ave / Adelaide St W,43.6472019,-79.3953394,Entertainment District,Tier-1-Core,15
+Queens Quay E / Lower Sherbourne St,43.645215,-79.364898,Waterfront,Tier-1-Core,27
+Wychwood Ave / Benson Ave - SMART,43.6809164,-79.4229684,St Clair Ave W,Tier-3-Ignore,16
+Bloor St E / Huntley St - SMART,43.671535,-79.379173,Church Wellesley / Yorkville,Tier-1-Core,20
+Wallace Ave / Symington Ave - SMART,43.661324,-79.449534,Davenport - Dupont,Tier-2-Feeder,12
+Victoria Park Subway Station - SMART,43.695101521988285,-79.28970303201599,Danforth,Tier-2-Feeder,12
+Dundas St E / Pembroke St ,43.658295,-79.372346,Distillery District,Tier-1-Core,15
+111 Bond St (North of Dundas St E)  - SMART,43.656927,-79.378497,Financial District,Tier-1-Core,16
+Toronto Eaton Centre (Yonge St) - SMART,43.655431,-79.380653,Financial District,Tier-1-Core,20
+Church St / Dundas St E - SMART,43.657024,-79.377257,Financial District,Tier-1-Core,20
+Yonge St / Alexander St - SMART,43.662862,-79.383572,Church Wellesley / Yorkville,Tier-1-Core,18
+Yonge St / Dundonald St ,43.66596010067729,-79.38461360978698,Church Wellesley / Yorkville,Tier-1-Core,26
+Bay St / Charles St W - SMART,43.668153,-79.38891,Church Wellesley / Yorkville,Tier-1-Core,20
+Bloor St W / Balmuto St,43.66981064282057,-79.38801106873031,Church Wellesley / Yorkville,Tier-1-Core,11
+Chorley Park - SMART,43.6856,-79.3718,Davenport - Dupont,Tier-2-Feeder,20
+Mallon Ave / Jones Ave -SMART,43.66587,-79.33443,Leslieville - Woodbine,Tier-2-Feeder,15
+Rosehill Ave / Avoca Ave - SMART,43.687999,-79.38906,Mid Town,Tier-3-Ignore,16
+Charles St W / Balmuto St - SMART,43.668427,-79.38725,Church Wellesley / Yorkville,Tier-1-Core,24
+Adelaide St W / Bay St,43.650152,-79.379856,Core-Correction,Tier-3-Ignore,23
+Front St W / Bay St (South Side),43.64595,-79.378761,Core-Correction,Tier-3-Ignore,19
+University Ave / King St W - SMART,43.6477785,-79.3847928,Financial District,Tier-1-Core,24
+Spadina Ave / Harbord St - SMART,43.6629228,-79.4018451,U of T - Hospital Row,Tier-1-Core,36
+Gerrard St E / Broadview Ave  - SMART,43.665656,-79.352055,Leslieville - Woodbine,Tier-2-Feeder,18
+Queen St E / Pape Ave - SMART,43.661673,-79.337789,Leslieville - Woodbine,Tier-2-Feeder,15
+Humber Bay Shores Park West,43.6224434,-79.480284,Humber Bay Shores,Tier-3-Ignore,31
+Humber Bay Shores Park East,43.6308933,-79.4722622,Humber Bay Shores,Tier-3-Ignore,23
+190 Queens Quay E,43.64542671204133,-79.36520838800558,Waterfront,Tier-1-Core,15
+Granby St / Church St - SMART,43.6614605,-79.37894570000002,Church Wellesley / Yorkville,Tier-1-Core,24
+Westmoreland Ave / Fernbank Ave,43.665327,-79.43235,Annex,Tier-2-Feeder,19
+Havelock St / Dufferin Park,43.657343,-79.43112,College - Harbord,Tier-2-Feeder,19
+Bathurst St / Adelaide St W,43.645324,-79.40345,Entertainment District,Tier-1-Core,25
+Mill St / Parliament St,43.650256,-79.36163,Distillery District,Tier-1-Core,15
+Primrose Ave / Davenport Rd,43.67142,-79.445947,Davenport - Dupont,Tier-2-Feeder,15
+Winona Dr / Davenport Rd,43.674923,-79.430465,Davenport - Dupont,Tier-2-Feeder,11
+Queen St E / Woodward Ave,43.665269,-79.319796,Leslieville - Woodbine,Tier-2-Feeder,19
+Queen St E / Rhodes Ave,43.666224,-79.317693,Leslieville - Woodbine,Tier-2-Feeder,23
+Sherbourne St / Isabella St,43.669576,-79.375961,Church Wellesley / Yorkville,Tier-1-Core,19
+Amelia St / Sumach St,43.66852,-79.363525,Church Wellesley / Yorkville,Tier-1-Core,11
+Emdaabiimok Ave / Lake Shore Blvd E,43.662771,-79.315223,Leslieville - Woodbine,Tier-2-Feeder,15
+Queen St. E / Eastern Ave,43.667208,-79.312315,Leslieville - Woodbine,Tier-2-Feeder,15
+Queen St E / Hammersmith Ave,43.671349,-79.29451,Leslieville - Woodbine,Tier-2-Feeder,11
+Queen St. E / Spruce Hill Rd.,43.672571,-79.289,Leslieville - Woodbine,Tier-2-Feeder,15
+Hubbard Blvd / Balsam Av,43.669328,-79.288949,Leslieville - Woodbine,Tier-2-Feeder,19
+Hubbard Blvd / Glen Manor Dr,43.668633,-79.291162,Leslieville - Woodbine,Tier-2-Feeder,15
+Lake Shore Blvd E / Knox Ave,43.660206,-79.3244,Leslieville - Woodbine,Tier-2-Feeder,11
+Front St W / University Ave (1),43.6451635,-79.3831757,Financial District,Tier-1-Core,19
+Front St W / University Ave (2),43.6452972,-79.3827914,Financial District,Tier-1-Core,19
+East Liberty St / Western Battery Rd,43.6392777,-79.4115736,Liberty Village,Tier-2-Feeder,19
+King St W / Charlotte St,43.645572,-79.39399,Entertainment District,Tier-1-Core,23
+Davenport Rd / Lansdowne Ave,43.671526,-79.44874,Davenport - Dupont,Tier-2-Feeder,19
+Crawford St / Queen St W,43.645665,-79.415345,Liberty Village,Tier-2-Feeder,19
+Coxwell Ave / Plains Rd,43.69595,-79.328535,Danforth,Tier-2-Feeder,19
+200 Bloor St E,43.671561,-79.38117,Church Wellesley / Yorkville,Tier-1-Core,23
+King St E / Victoria St,43.6495789,-79.3762096,Financial District,Tier-1-Core,19
+Simcoe St / Wellington St W (North),43.646460210460226,-79.38557721964341,Financial District,Tier-1-Core,15
+Bay St / Bloor St W (West Side),43.669244,-79.3894,Church Wellesley / Yorkville,Tier-1-Core,19
+Queen St E / Alton Av,43.663912,-79.327987,Leslieville - Woodbine,Tier-2-Feeder,19
+Gerrard Square Mall (1010 Gerrard St E),43.668553,-79.338673,Leslieville - Woodbine,Tier-2-Feeder,23
+Logan Ave / Bain Ave,43.6720273,-79.3470557,Leslieville - Woodbine,Tier-2-Feeder,19
+Carlaw Ave / Strathcona Ave,43.6753188,-79.3462789,Danforth,Tier-2-Feeder,15
+Blake St / Boultbee Ave,43.672453,-79.338259,Leslieville - Woodbine,Tier-2-Feeder,15
+Eastern Ave / Winnifred Ave,43.6592088,-79.3348396,Leslieville - Woodbine,Tier-2-Feeder,14
+Morse St / Eastern Ave,43.657991,-79.340075,Leslieville - Woodbine,Tier-2-Feeder,11
+Alton Ave / Dundas St E (Greenwood Park),43.66745,-79.329408,Leslieville - Woodbine,Tier-2-Feeder,23
+Cherry Beach,43.637764,-79.345359,Waterfront,Tier-1-Core,49
+Cherry Beach Sports Fields (55 Unwin Ave),43.6408346,-79.3429074,Waterfront,Tier-1-Core,30
+Logan Ave / Gerrard St E,43.6672144,-79.3452697,Leslieville - Woodbine,Tier-2-Feeder,23
+Regal Rd / Dufferin St,43.673939,-79.441159,Davenport - Dupont,Tier-2-Feeder,15
+Pape Ave / Gamble Ave,43.690237,-79.350119,Danforth,Tier-2-Feeder,19
+Gamble Ave / Broadview Ave,43.689211,-79.35438,Danforth,Tier-2-Feeder,23
+Broadview Ave / Westwood Ave,43.6848652,-79.356602,Danforth,Tier-2-Feeder,23
+Pretoria Ave / Broadview Ave,43.6783213,-79.35822,Danforth,Tier-2-Feeder,19
+Cosburn Ave / Donlands Ave,43.690537,-79.341307,Danforth,Tier-2-Feeder,19
+Fulton Ave / Pape Ave,43.68395,-79.347046,Danforth,Tier-2-Feeder,19
+Tommy Thompson Park (Leslie Street Spit),43.65222662225532,-79.32295440954084,Leslieville - Woodbine,Tier-2-Feeder,31
+Beltline Trail / Chaplin Cres,43.704461,-79.423122,Eglinton Ave W,Tier-3-Ignore,15
+King St E / Berkeley St,43.651885,-79.3649,Distillery District,Tier-1-Core,31
+Lake Shore Blvd E / Leslie St,43.659195,-79.329196,Leslieville - Woodbine,Tier-2-Feeder,19
+Galbraith Rd / King's College Rd,43.6603874468082,-79.39537831814152,U of T - Hospital Row,Tier-1-Core,17
+Rosedale Park (20 Scholfield Ave),43.682645,-79.377557,Davenport - Dupont,Tier-2-Feeder,23
+Concord Ave / Dewson St,43.656945,-79.424911,College - Harbord,Tier-2-Feeder,17
+Hocken Ave / Vaughan Rd,43.6817346,-79.4184725,St Clair Ave W,Tier-3-Ignore,19
+St. Clair Ave W / Bathurst St,43.683296,-79.418734,St Clair Ave W,Tier-3-Ignore,19
+Wells Hill Ave / St. Clair Ave W,43.683351,-79.41562,St Clair Ave W,Tier-3-Ignore,15
+Queen St E / Nursewood Rd,43.673831,-79.281455,Leslieville - Woodbine,Tier-2-Feeder,19
+Kewbeach Ave / Kenilworth Ave,43.666325,-79.3014,Leslieville - Woodbine,Tier-2-Feeder,23
+Fort York Blvd / Bathurst St - SMART,43.639052,-79.399792,Entertainment District,Tier-1-Core,20
+Alma Ave / Gladstone Ave SMART,43.6448617,-79.42822,Liberty Village,Tier-2-Feeder,16
+Lisgar St / Dundas St W - SMART,43.6493472,-79.42668,College - Harbord,Tier-2-Feeder,8
+Eglinton Ave W / Henning Ave SMART,43.7063473,-79.40161,Mid Town,Tier-3-Ignore,20
+George St / King St E,43.6509552,-79.3707,Distillery District,Tier-1-Core,15
+Frederick St / The Esplanade,43.6487245,-79.36839,Distillery District,Tier-1-Core,19
+Front St E / Scott St,43.6476616,-79.37549,Financial District,Tier-1-Core,11
+Frobisher Ave / Lascelles Blvd,43.696708,-79.40045,Mid Town,Tier-3-Ignore,19
+Balliol St / Yonge St - SMART,43.6978701,-79.39419,Mid Town,Tier-3-Ignore,36
+Yonge St / Davisville Ave,43.6975969,-79.39654,Mid Town,Tier-3-Ignore,15
+Lawton Blvd / Yonge St,43.6910667,-79.39535,Mid Town,Tier-3-Ignore,15
+Erskine Ave / Yonge St SMART,43.7112153,-79.39894,Mid Town,Tier-3-Ignore,16
+Yonge St / Orchard View Blvd,43.7083577,-79.39886200000001,Mid Town,Tier-3-Ignore,35
+Simcoe St / Adelaide St W,43.6481303,-79.38632,Unknown,Tier-3-Ignore,27
+12 Harbour St,43.6425636,-79.3762,Waterfront,Tier-1-Core,15
+Cumberland St / Bay St -  SMART,43.6704537,-79.39014,Church Wellesley / Yorkville,Tier-1-Core,9
+20 Charles St E,43.6691099,-79.38551,North,Tier-3-Ignore,33
+D'Arcy St / McCaul St - SMART,43.655227,-79.39201,U of T - Hospital Row,Tier-1-Core,16
+Mortimer Ave / Carlaw Ave SMART,43.685167,-79.34962,Danforth,Tier-2-Feeder,12
+Broadview Subway Station,43.6772,-79.35858,Danforth,Tier-2-Feeder,15
+College Park - Gerrard Entrance,43.658938,-79.383518,U of T - Hospital Row,Tier-1-Core,25
+Yonge St / Dundas Sq,43.655766,-79.3802,Financial District,Tier-1-Core,31
+Dentonia Park,43.694341,-79.291416,Danforth,Tier-2-Feeder,23
+York St / Lake Shore Blvd W,43.641952,-79.380723,Waterfront,Tier-1-Core,19
+Lower Jarvis St / Queens Quay E,43.64422,-79.36927,Waterfront,Tier-1-Core,19
+Polson Pier,43.641675,-79.354006,Waterfront,Tier-1-Core,23
+Lascelles Blvd / Eglinton Ave W,43.70547,-79.40355,Mid Town,Tier-3-Ignore,19
+Roehampton Ave / Mount Pleasant Rd,43.70942,-79.39139,Mid Town,Tier-3-Ignore,19
+University Ave / Queen St W,43.65052424212547,-79.38672702579497,Financial District,Tier-1-Core,23
+Isabella St / Church St,43.66834,-79.38235,Church Wellesley / Yorkville,Tier-1-Core,27
+Howard St / Rose Ave,43.671278,-79.372127,Church Wellesley / Yorkville,Tier-1-Core,19
+Little Norway Park,43.635023,-79.399505,Waterfront,Tier-1-Core,23
+King St W / Crawford St,43.6417852,-79.4131148,Liberty Village,Tier-2-Feeder,23
+Keele St / Annette St,43.66402,-79.46418,Bloor St W - High Park,Tier-3-Ignore,15
+Keele St / Vine Ave,43.66686,-79.46526,Bloor St W - High Park,Tier-3-Ignore,23
+Spadina Ave / Blue Jays Way,43.641705,-79.393295,Entertainment District,Tier-1-Core,31
+King St W / Jordan St,43.648928,-79.378623,Financial District,Tier-1-Core,11
+College Park - Yonge St Entrance,43.65988,-79.38279,U of T - Hospital Row,Tier-1-Core,25
+Bloor St W / Huron St,43.667023,-79.401805,Annex,Tier-2-Feeder,27
+Barton Ave / Howland Ave - SMART,43.66842,-79.410585,Annex,Tier-2-Feeder,27
+Tyndall Ave / King St W - SMART,43.638426,-79.429142,Liberty Village,Tier-2-Feeder,16
+The Queensway at South Kingsway,43.63632,-79.47307,Humber Bay Shores,Tier-3-Ignore,23
+Northern Dancer Blvd / Lake Shore Blvd E,43.663162,-79.309765,Leslieville - Woodbine,Tier-2-Feeder,26
+Woodbine Ave / Lake Shore Blvd E,43.665645,-79.304711,Leslieville - Woodbine,Tier-2-Feeder,27
+Woodbine Subway Station,43.686442,-79.313404,Danforth,Tier-2-Feeder,15
+Marilyn Bell Park Tennis Court,43.633537,-79.437461,Waterfront,Tier-1-Core,27
+Gerrard St E / Leslie St,43.669813,-79.3335,Leslieville - Woodbine,Tier-2-Feeder,23
+Frederick St / King St E,43.651118,-79.369411,Distillery District,Tier-1-Core,47
+Dundas St E / Boulton Ave - SMART,43.663148,-79.347938,Leslieville - Woodbine,Tier-2-Feeder,16
+91 Via Italia,43.67665014253828,-79.44503029755326,West,Tier-3-Ignore,39
+Rushton Rd / St. Clair Ave W,43.68114,-79.4277,St Clair Ave W,Tier-3-Ignore,10
+Concord Ave / Bloor St W,43.66189,-79.42679,Annex,Tier-2-Feeder,15
+Gothic Ave / Quebec Ave,43.65389,-79.4675,Bloor St W - High Park,Tier-3-Ignore,19
+Pacific Ave / Glenlake Ave,43.65716,-79.46478,Bloor St W - High Park,Tier-3-Ignore,22
+Lonsdale Rd / Spadina Rd,43.688526,-79.412903,St Clair Ave W,Tier-3-Ignore,15
+Dundas St E / George St,43.6574766,-79.373446,Distillery District,Tier-1-Core,25
+Clendenan Ave / Rowland St - SMART,43.66073,-79.47149,Bloor St W - High Park,Tier-3-Ignore,20
+Eastwood Rd / Coxwell Ave,43.673118,-79.318651,Leslieville - Woodbine,Tier-2-Feeder,19
+Orchard Park,43.66908,-79.3149,Leslieville - Woodbine,Tier-2-Feeder,19
+Trent Ave / Danforth Ave,43.689293,-79.295895,Danforth,Tier-2-Feeder,23
+Goodwood Park Crt / Dentonia Park,43.694826,-79.295208,Danforth,Tier-2-Feeder,19
+Cosburn Ave / Cedarvale Ave,43.697139,-79.31469,Danforth,Tier-2-Feeder,15
+Carlaw Ave / Danforth Ave,43.678248142816344,-79.34709655456162,East,Tier-3-Ignore,15
+Western Battery Rd / Pirandello St,43.640075,-79.414156,Liberty Village,Tier-2-Feeder,29
+Bleecker St / St James Ave,43.669232,-79.374495,Church Wellesley / Yorkville,Tier-1-Core,23
+Jarvis St / Maitland Pl,43.6647688,-79.3772602,Church Wellesley / Yorkville,Tier-1-Core,17
+Pottery Rd / Lower Don River Trail,43.688148,-79.362101,Davenport - Dupont,Tier-2-Feeder,15
+E.T. Seton Park (Eglinton Ave E / Leslie St),43.715951,-79.351246,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,27
+Queen's Park Cres W / Hoskin Ave,43.665221,-79.394009,U of T - Hospital Row,Tier-1-Core,23
+Church St / Lombard St,43.651678,-79.375233,Financial District,Tier-1-Core,17
+St. Clair Ave W / Winona Dr,43.680466,-79.432522,St Clair Ave W,Tier-3-Ignore,11
+High Park Outdoor Pool,43.650154,-79.464934,Bloor St W - High Park,Tier-3-Ignore,26
+High Park Amphitheatre,43.646251,-79.46472,Bloor St W - High Park,Tier-3-Ignore,22
+Richmond St E / Yonge St,43.651838,-79.378743,Financial District,Tier-1-Core,17
+Russell Hill Rd / St. Clair Ave W,43.685569,-79.408019,St Clair Ave W,Tier-3-Ignore,19
+Glendonwynne Rd / Bloor St W,43.65182,-79.47421,Bloor St W - High Park,Tier-3-Ignore,19
+Lower Simcoe St / Bremner Blvd,43.64283,-79.38409,Waterfront,Tier-1-Core,15
+Front St W / Simcoe St,43.644480035433915,-79.38698781349183,Waterfront,Tier-1-Core,27
+York St / Wellington St W (1) ,43.646734,-79.38301,Financial District,Tier-1-Core,23
+2300 Lakeshore Blvd W,43.61868,-79.48674,West,Tier-3-Ignore,15
+Adelaide St W / Strachan Ave,43.643253094827294,-79.41230469904167,Liberty Village,Tier-2-Feeder,15
+Clarence Square,43.64407,-79.3929,Entertainment District,Tier-1-Core,23
+Jarvis St / Richmond St E,43.652777,-79.372637,Financial District,Tier-1-Core,19
+Symington Ave / Dupont St,43.665538,-79.451263,Davenport - Dupont,Tier-2-Feeder,15
+Antler St / Campbell Ave - SMART,43.664182,-79.449066,Davenport - Dupont,Tier-2-Feeder,20
+Ellis Ave / The Queensway,43.63855,-79.46693,Humber Bay Shores,Tier-3-Ignore,19
+Jane St / Bloor St W (Jane Subway Station),43.64976,-79.48477,Bloor St W - High Park,Tier-3-Ignore,15
+Neil McLellan Park,43.65143,-79.47779,Bloor St W - High Park,Tier-3-Ignore,14
+Southwood Dr / Kingston Rd - SMART,43.678685,-79.297974,Leslieville - Woodbine,Tier-2-Feeder,12
+Briar Hill Ave / Yonge St - SMART,43.713524,-79.400162,Mid Town,Tier-3-Ignore,16
+Blythwood Rd / Yonge St - SMART,43.716652,-79.399993,Mid Town,Tier-3-Ignore,15
+Gerrard St E / Main St,43.684261,-79.299332,Leslieville - Woodbine,Tier-2-Feeder,21
+Eastwood Rd / Woodbine Ave - SMART,43.676216,-79.309395,Leslieville - Woodbine,Tier-2-Feeder,14
+Summerhill Ave / Maclennan Ave,43.685924,-79.376304,Davenport - Dupont,Tier-2-Feeder,11
+Sumach St  / Queen St E,43.656638,-79.358749,Distillery District,Tier-1-Core,19
+Cherry St / Lake Shore Blvd E,43.64827015761016,-79.35651733677065,Waterfront,Tier-1-Core,15
+Sackville St / Eastern Ave - SMART,43.653809,-79.3595,Distillery District,Tier-1-Core,12
+Davenport Rd / McAlpine St - SMART,43.673768,-79.391253,Davenport - Dupont,Tier-2-Feeder,12
+Sunnyside Ave / The Queensway - SMART,43.6397,-79.44865,Liberty Village,Tier-2-Feeder,20
+128 Sterling Rd - SMART,43.654004,-79.444792,College - Harbord,Tier-2-Feeder,20
+Humberside Grounds - SMART,43.65917,-79.46997,Bloor St W - High Park,Tier-3-Ignore,20
+University Ave / College St (East),43.65995,-79.38964,U of T - Hospital Row,Tier-1-Core,20
+Gerrard St E / Malvern Ave - SMART,43.685221,-79.294766,Leslieville - Woodbine,Tier-2-Feeder,20
+Gerrard St E / Victoria Park Ave - SMART,43.686962,-79.286864,Leslieville - Woodbine,Tier-2-Feeder,16
+Ontario St / Adelaide St E -SMART,43.6535052,-79.3667689,Distillery District,Tier-1-Core,18
+Berkeley St / Adelaide St E - SMART,43.653268712095425,-79.36481974767595,Distillery District,Tier-1-Core,12
+Berkeley St / Dundas St E - SMART,43.658816,-79.367318,Distillery District,Tier-1-Core,20
+Humber Bay Shores Park / Marine Parade Dr,43.626265,-79.476723,Humber Bay Shores,Tier-3-Ignore,63
+Amos Waites Park,43.613606,-79.4883535,Humber Bay Shores,Tier-3-Ignore,27
+Superior Ave / Lake Shore Blvd W,43.6146692,-79.4873148,Humber Bay Shores,Tier-3-Ignore,17
+Ripley Ave / Ormskirk Ave,43.6390437,-79.4760109,Bloor St W - High Park,Tier-3-Ignore,23
+Lake Shore Blvd W / Colborne Lodge Dr,43.63771,-79.458173,Humber Bay Shores,Tier-3-Ignore,27
+406 Oakwood Ave,43.68827060022711,-79.43937767081853,Eglinton Ave W,Tier-3-Ignore,19
+St Clarens Ave / Shirley St,43.6486599,-79.4376413,College - Harbord,Tier-2-Feeder,15
+Emerson Ave / Bloor St W,43.658739,-79.440691,Annex,Tier-2-Feeder,23
+Wallace Ave / Pauline Ave,43.6632257,-79.4397052,Davenport - Dupont,Tier-2-Feeder,17
+Lynn Williams St / East Liberty St,43.638925,-79.4168659,Liberty Village,Tier-2-Feeder,15
+Lisgar Park,43.6423847,-79.4240277,Liberty Village,Tier-2-Feeder,35
+Bartlett Parkette,43.6702236,-79.4360232,Annex,Tier-2-Feeder,23
+Joseph J Piccininni Community Centre,43.675648,-79.4527619,St Clair Ave W,Tier-3-Ignore,19
+Spadina Rd / Austin Terrace,43.67883,-79.408723,Annex,Tier-2-Feeder,17
+Symington Ave / Davenport Rd,43.6704403,-79.45328549999999,Davenport - Dupont,Tier-2-Feeder,15
+Sherbourne St N / Elm Ave,43.6752732,-79.3778458,Davenport - Dupont,Tier-2-Feeder,23
+541 Huron St - SMART,43.670206,-79.402643,Annex,Tier-2-Feeder,20
+Housey St / Dan Leckie Way,43.63811,-79.397877,Entertainment District,Tier-1-Core,27
+Walnut Ave / Queen St W,43.645469,-79.411084,Liberty Village,Tier-2-Feeder,7
+Palmerston Ave / Dundas St W,43.651603,-79.408346,College - Harbord,Tier-2-Feeder,23
+Euclid Ave / Herrick St - SMART,43.661559,-79.413845,College - Harbord,Tier-2-Feeder,16
+Vaughan Rd /Wychwood Ave,43.6882821,-79.4253856,Eglinton Ave W,Tier-3-Ignore,19
+Davisville Ave / Pailton Cres,43.69933,-79.39199,Mid Town,Tier-3-Ignore,19
+Alvin Ave / St. Clair Ave E,43.68871,-79.39264,Mid Town,Tier-3-Ignore,19
+Bellwoods Ave / Treford Pl - SMART,43.65246,-79.413528,College - Harbord,Tier-2-Feeder,20
+Queen St W / John St,43.650077,-79.391291,Entertainment District,Tier-1-Core,23
+Nassau St / Bellevue Ave,43.65484215542248,-79.40351232494366,College - Harbord,Tier-2-Feeder,15
+Baldwin St / Henry St,43.6560758,-79.393259,U of T - Hospital Row,Tier-1-Core,15
+Ross St / Cecil St - SMART,43.6568254,-79.3966159,U of T - Hospital Row,Tier-1-Core,18
+Orde St / McCaul St,43.6580442,-79.3927404,U of T - Hospital Row,Tier-1-Core,15
+439 Sherbourne St,43.666051,-79.374161,Church Wellesley / Yorkville,Tier-1-Core,47
+The Esplanade / Hahn Pl,43.649709,-79.364184,Unknown,Tier-3-Ignore,15
+Lake Shore Blvd W / Thirty Ninth Street,43.5927419,-79.54033009999999,Humber Bay Shores,Tier-3-Ignore,19
+Lake Shore Blvd W / Twenty Fourth St,43.597082,-79.522768,Humber Bay Shores,Tier-3-Ignore,19
+Humber College (Lakeshore Campus),43.5961692,-79.5160575,Humber Bay Shores,Tier-3-Ignore,27
+Royal York Rd / Mimico Ave,43.612063,-79.496573,Humber Bay Shores,Tier-3-Ignore,20
+Windsor St / Newcastle St,43.6171635,-79.4971065,Humber Bay Shores,Tier-3-Ignore,31
+The Queensway / High St,43.630874,-79.482407,Humber Bay Shores,Tier-3-Ignore,23
+Berry Rd / Bell Manor Dr,43.63732,-79.489083,Bloor St W - High Park,Tier-3-Ignore,19
+Swansea Community Centre,43.6438036,-79.4770327,Bloor St W - High Park,Tier-3-Ignore,15
+Annette St / Jane St,43.658574,-79.487246,Bloor St W - High Park,Tier-3-Ignore,15
+Priscilla Ave / Dundas St W,43.664665,-79.489385,Bloor St W - High Park,Tier-3-Ignore,23
+St. Clair Ave W / Castleton Ave,43.668496,-79.485426,St Clair Ave W,Tier-3-Ignore,19
+Durie St / Dundas St W,43.665523,-79.484892,Bloor St W - High Park,Tier-3-Ignore,23
+St. Clair Ave W / Gunns Rd,43.672079,-79.470171,St Clair Ave W,Tier-3-Ignore,23
+Weston Rd / St. Clair Ave W,43.673019,-79.467994,St Clair Ave W,Tier-3-Ignore,19
+Weston Lions Park,43.698841,-79.519472,Eglinton Ave W,Tier-3-Ignore,27
+Jameson Ave / Queen St W,43.63985,-79.43703,Liberty Village,Tier-2-Feeder,26
+Toronto Inukshuk Park,43.6323994,-79.40978179999999,Waterfront,Tier-1-Core,47
+Carlaw Ave / Dundas St E,43.665076,-79.341509,Leslieville - Woodbine,Tier-2-Feeder,17
+Highfield Rd / Gerrard St E,43.671771,-79.324961,Leslieville - Woodbine,Tier-2-Feeder,19
+Cosburn Ave / Durant Ave,43.6935477,-79.3301658,Danforth,Tier-2-Feeder,15
+Bayview Ave / Lawren Harris Square,43.6548521,-79.35397680000001,Distillery District,Tier-1-Core,15
+Front St E / Bayview Avenue,43.6535,-79.354068,Distillery District,Tier-1-Core,23
+Oak St / Sumach St,43.6617908,-79.361515,Distillery District,Tier-1-Core,27
+Glebe Rd W / Yonge St,43.7005976,-79.397345,Mid Town,Tier-3-Ignore,19
+Hillsdale Ave W / Yonge St,43.7029672,-79.3979073,Mid Town,Tier-3-Ignore,15
+High Park Ave / Dundas St W,43.6653032,-79.4701178,Bloor St W - High Park,Tier-3-Ignore,15
+Alameda Ave / Vaughan Rd - SMART,43.690903,-79.4375028,Eglinton Ave W,Tier-3-Ignore,16
+Eglinton Ave W / Scarlett Rd,43.6834703,-79.5108942,Eglinton Ave W,Tier-3-Ignore,23
+The Pond Rd / Sentinel Rd,43.7696262,-79.5025943,North York - York U,Tier-3-Ignore,27
+Dufferin St / Finch Corridor Trail,43.77299391821548,-79.46762962248485,North York - York U,Tier-3-Ignore,19
+G Ross Lord Park,43.7781116,-79.467963,North York - York U,Tier-3-Ignore,19
+Torresdale Ave / Antibes Dr,43.77953,-79.45233,North York - York U,Tier-3-Ignore,14
+Esther Shiner Stadium,43.7774374,-79.4447096,North York - York U,Tier-3-Ignore,23
+Elwood Blvd / Avenue Rd,43.707049,-79.40966,Mid Town,Tier-3-Ignore,23
+Roehampton Ave / Bayview Ave,43.711751,-79.378615,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,27
+Fleming Cres / Bayview Ave,43.707045,-79.375437,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Moore Park,43.693256,-79.383238,Mid Town,Tier-3-Ignore,15
+Langford Ave / Danforth Ave - SMART,43.6800218,-79.3405681,Danforth,Tier-2-Feeder,32
+Yonge St / Golfdale Rd,43.732016,-79.403637,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Teddington Park Ave,43.732975,-79.40401,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Richmond St W / York St,43.650745,-79.383633,Financial District,Tier-1-Core,17
+Ursula Franklin St / Huron St - SMART,43.660274,-79.398049,U of T - Hospital Row,Tier-1-Core,20
+Brick Works,43.683884,-79.36647,Davenport - Dupont,Tier-2-Feeder,24
+Woodbine Ave / O'Connor Dr,43.699281,-79.318802,Danforth,Tier-2-Feeder,19
+O'Connor Dr / Curity Ave,43.707582,-79.311439,Scarborough - St. Clair,Tier-3-Ignore,14
+St. Columba Pl / St. Clair Ave E,43.70567,-79.310554,Scarborough - St. Clair,Tier-3-Ignore,19
+Lumsden Ave / Eastdale Ave,43.69413548199171,-79.30058718775287,Danforth,Tier-2-Feeder,20
+Dawes Rd / Taylor Creek Trl,43.696631,-79.297436,Danforth,Tier-2-Feeder,19
+Fairmount Park,43.6765897,-79.3163022,Leslieville - Woodbine,Tier-2-Feeder,19
+Wilket Creek Park,43.720645,-79.355474,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,27
+Sunnybrook Park,43.720233,-79.362092,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,27
+Kingston Rd / Beech Ave,43.680095,-79.291714,Leslieville - Woodbine,Tier-2-Feeder,15
+Victoria Park Ave / Danforth Ave,43.691468,-79.288619,Danforth,Tier-2-Feeder,19
+Livingston Rd / Guildwood Pkwy,43.747854,-79.199327,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Livingston Rd (Highland Creek Trail),43.7561681,-79.2026694,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Morningside Park (Highland Creek Trail),43.779353,-79.193023,Scarborough - Rouge Hill,Tier-3-Ignore,23
+Colonel Danforth Park,43.7777114,-79.1659711,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Waterfront Trail (Rouge Hill),43.778015,-79.131911,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Starspray Blvd / Lawrence Ave E,43.788525214554085,-79.1231844760227,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Vaughan Rd / Oakwood Ave,43.6926825,-79.441042,Eglinton Ave W,Tier-3-Ignore,19
+Braemar Ave / Eglinton Ave W,43.7041957,-79.4094472,Mid Town,Tier-3-Ignore,15
+Eglinton Ave E / Redpath Ave,43.7078691,-79.39248,Mid Town,Tier-3-Ignore,31
+Marie Curtis Park,43.5880774,-79.5432067,Humber Bay Shores,Tier-3-Ignore,23
+Royal York Rd / Lake Shore Blvd W,43.603384682309645,-79.49310512460633,Humber Bay Shores,Tier-3-Ignore,19
+Guildwood GO Station (South),43.754978,-79.1971289,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Yonge St / Lawrence Ave E,43.7254665,-79.40115449999999,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,23
+Rouge Hill GO Station,43.7805505,-79.1301203,Scarborough - Rouge Hill,Tier-3-Ignore,25
+Shaw St / Essex St - SMART,43.667076,-79.425116,Davenport - Dupont,Tier-2-Feeder,15
+Lundy Ave / Ã‰tienne BrÃ»lÃ© Park,43.6625395,-79.5030161,Bloor St W - High Park,Tier-3-Ignore,15
+Twelfth St / Thirteenth St,43.6002896,-79.5108692,Humber Bay Shores,Tier-3-Ignore,23
+Florence Gell Park,43.66196582326018,-79.49851065277862,Bloor St W - High Park,Tier-3-Ignore,15
+Chiltern Hill Rd / Eglinton Ave W,43.7004017,-79.4275305,Eglinton Ave W,Tier-3-Ignore,17
+Noble St / Queen St W,43.64226917409186,-79.42920979115014,Liberty Village,Tier-2-Feeder,15
+Runnymede Rd / Annette St,43.6596299,-79.4799176,Bloor St W - High Park,Tier-3-Ignore,15
+Bloor St W / Riverside Dr,43.647663,-79.487583,Bloor St W - High Park,Tier-3-Ignore,23
+Judson St / Royal York Rd,43.6162721,-79.4990363,Humber Bay Shores,Tier-3-Ignore,19
+135 Queens Wharf Rd - SMART,43.6399714,-79.39940399999999,Entertainment District,Tier-1-Core,16
+Spadina Rd / St. Clair Ave W,43.683979,-79.410657,St Clair Ave W,Tier-3-Ignore,15
+Annette St / Dundas St W,43.6641174,-79.4588522,Davenport - Dupont,Tier-2-Feeder,15
+Yonge St / St. Clair Ave,43.68850460000001,-79.39416076812287,Mid Town,Tier-3-Ignore,19
+Oriole Pkwy / Kilbarry Rd,43.6954486,-79.4026176,Mid Town,Tier-3-Ignore,19
+East Lynn Ave / Danforth Ave,43.6850809,-79.3149901,Danforth,Tier-2-Feeder,15
+University of Toronto Scarborough,43.7842419,-79.1849889,Scarborough - Rouge Hill,Tier-3-Ignore,16
+University Ave / Richmond St W,43.64981903446256,-79.38641270251617,Financial District,Tier-1-Core,15
+Elm St/ University Ave (East Side),43.65637299999999,-79.38781039999999,South,Tier-3-Ignore,17
+St. Clair West Subway Station - Heath St. W,43.686352,-79.415894,St Clair Ave W,Tier-3-Ignore,23
+Bloor St W / Pacific Ave,43.65412449999999,-79.4636388,Bloor St W - High Park,Tier-3-Ignore,7
+Danforth Ave / Dewhurst Blvd,43.680207,-79.339243,Danforth,Tier-2-Feeder,15
+Bloor St W / Brock Ave,43.6589882,-79.438715,Annex,Tier-2-Feeder,11
+1 Market St,43.6469928,-79.3706665,East,Tier-3-Ignore,20
+King's Mill Park,43.64920406876699,-79.49336334201408,Bloor St W - High Park,Tier-3-Ignore,27
+Amroth Ave / Danforth Ave,43.6856128,-79.31168269999999,Danforth,Tier-2-Feeder,19
+285 Victoria St,43.656633,-79.379625,Financial District,Tier-1-Core,39
+Beaty Ave / Queen St W,43.6393107,-79.4408141,Liberty Village,Tier-2-Feeder,19
+Kilgour Rd / Rumsey Rd,43.718039,-79.371914,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,17
+Sunnybrook Health Centre - L Wing,43.72268,-79.37644,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Sunnybrook Health Centre - S Wing,43.720998,-79.377456,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+Dundas St W / St Helen's Ave - SMART,43.6504218,-79.4407647,College - Harbord,Tier-2-Feeder,26
+Spadina Ave / Sussex Ave ,43.66402799999999,-79.40297869999999,U of T - Hospital Row,Tier-1-Core,31
+Simcoe St / Dundas St W,43.655103,-79.389295,South,Tier-3-Ignore,20
+Yonge St / Montgomery Ave - SMART,43.70960859570095,-79.39915125005619,Mid Town,Tier-3-Ignore,12
+1525 Dundas St W,43.64957,-79.432446,College - Harbord,Tier-2-Feeder,15
+York University (Glendon Campus) - SMART,43.727365488246306,-79.3814254607724,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,16
+1303 Yonge St - SMART,43.6846177,-79.39245919999999,Davenport - Dupont,Tier-2-Feeder,15
+York University Station (South) - SMART,43.77345,-79.5002,North York - York U,Tier-3-Ignore,16
+York University Station (North),43.7741,-79.5005,North York - York U,Tier-3-Ignore,15
+Princes' Blvd / Nunavut Rd,43.6333523484014,-79.41436313073005,Waterfront,Tier-1-Core,19
+25 Booth Ave,43.6544839,-79.34105699999999,East,Tier-3-Ignore,24
+Bathurst St / Front St W,43.64134790000001,-79.4013882,Entertainment District,Tier-1-Core,35
+Bay St / Harbour St ,43.64215,-79.377,Waterfront,Tier-1-Core,23
+King St W / Brant St,43.645102,-79.39744979999999,Entertainment District,Tier-1-Core,23
+Lower Jarvis St / The Esplanade,43.6478206,-79.3704721,Distillery District,Tier-1-Core,15
+Bloor St W / Gladstone Ave - SMART,43.6602021,-79.4342726,Annex,Tier-2-Feeder,10
+High Park Blvd / Parkside Dr,43.64456431942226,-79.45737058972283,Bloor St W - High Park,Tier-3-Ignore,15
+Christie St / Dupont St,43.67168,-79.421192,Davenport - Dupont,Tier-2-Feeder,19
+85 Lee Ave,43.6700692,-79.2971326,East,Tier-3-Ignore,26
+Mutual St / Shuter St,43.654919677554936,-79.374960865926,Financial District,Tier-1-Core,23
+Victoria Park Ave / Dawes Rd,43.706466,-79.29511,Scarborough - St. Clair,Tier-3-Ignore,19
+Queen St E / Joseph Duggan Rd,43.6677628,-79.30811709999999,Leslieville - Woodbine,Tier-2-Feeder,19
+Heyworth Cres / Kingston Rd,43.6750806,-79.3068697,Leslieville - Woodbine,Tier-2-Feeder,19
+St. Clair Ave W / Caledonia Rd,43.67566643384946,-79.45393093300397,St Clair Ave W,Tier-3-Ignore,13
+St Clair Ave W / Oakwood Ave,43.678177,-79.435364,St Clair Ave W,Tier-3-Ignore,15
+St. Clair Ave W / Robina Ave,43.68005,-79.43469,St Clair Ave W,Tier-3-Ignore,15
+Roncesvalles Ave / Fermanagh Ave,43.646314469245205,-79.44879407014527,College - Harbord,Tier-2-Feeder,19
+111 Broadview Ave,43.6593483,-79.34993659999999,East,Tier-3-Ignore,18
+Oak St / Sackville St,43.6613642,-79.3641171,Distillery District,Tier-1-Core,19
+24 Mountjoy Ave,43.68049350289877,-79.33044552721375,Danforth,Tier-2-Feeder,19
+Colgate Ave / Carlaw Ave,43.6623658,-79.3413344,Leslieville - Woodbine,Tier-2-Feeder,19
+Felstead Ave/Gillard Ave (Monarch Park),43.6791345,-79.3263159,Danforth,Tier-2-Feeder,27
+Coronation Park (Martin Goodman Trail),43.635007,-79.403341,Waterfront,Tier-1-Core,19
+101 Cedarvale Ave,43.6868681,-79.3110942,East,Tier-3-Ignore,28
+Beltline Trail / Yonge St,43.6962302,-79.39504339999999,Mid Town,Tier-3-Ignore,1
+11 Spadina Rd,43.6677246,-79.4041365,North,Tier-3-Ignore,18
+Havelock St / Dewson St,43.6554793,-79.4302462,College - Harbord,Tier-2-Feeder,15
+Queen St W / Shaw St,43.6442457,-79.41610440000001,Liberty Village,Tier-2-Feeder,23
+Temperance St / Bay St,43.6506,-79.381285,Financial District,Tier-1-Core,23
+Lumsden Ave / Cedarvale Ave,43.693187,-79.314283,Danforth,Tier-2-Feeder,11
+Church St / The Esplanade,43.6469251,-79.3733192,Financial District,Tier-1-Core,19
+Niagara St / Portland St,43.642453431392845,-79.39959004344777,Entertainment District,Tier-1-Core,11
+St. Andrew's Playground Park,43.646552,-79.399586,Entertainment District,Tier-1-Core,10
+Wolseley St / Augusta Ave,43.6484201,-79.40051919999999,Entertainment District,Tier-1-Core,28
+King St W / Portland St - SMART,43.644395,-79.40065430000001,Entertainment District,Tier-1-Core,32
+Widmer St / King St W,43.6463574,-79.391206,Entertainment District,Tier-1-Core,11
+Wellesley St E / Parliament St,43.6682342,-79.3702641,Church Wellesley / Yorkville,Tier-1-Core,15
+Randolph Ave / Perth Ave,43.6585504,-79.4497659,Annex,Tier-2-Feeder,19
+265 Armadale Ave,43.6501644,-79.48296909999999,West,Tier-3-Ignore,45
+800 Fleet St (South),43.63670985212708,-79.40880517790985,West,Tier-3-Ignore,43
+Victoria Park Ave / Kingston Rd,43.68035,-79.28357,Leslieville - Woodbine,Tier-2-Feeder,15
+Kingston Rd / Warden Ave,43.68824135931814,-79.27046628033244,Scarborough - St. Clair,Tier-3-Ignore,15
+Pharmacy Ave / Danforth Ave,43.6929478,-79.28339980000001,Scarborough - St. Clair,Tier-3-Ignore,15
+Danforth Ave / Warden Ave,43.6950192,-79.27180659999999,Scarborough - St. Clair,Tier-3-Ignore,15
+Birchcliff Ave / Kingston Rd,43.691688,-79.265027,Scarborough - St. Clair,Tier-3-Ignore,15
+Birchmount Rd / Kingston Rd,43.69401297794256,-79.26257204548136,Scarborough - St. Clair,Tier-3-Ignore,15
+Kingston Rd / Glen Everest Rd,43.697490048103,-79.25655146462776,Scarborough - St. Clair,Tier-3-Ignore,15
+Highview Ave / Kennedy Rd,43.702418581463505,-79.2563167072858,Scarborough - St. Clair,Tier-3-Ignore,15
+Kingston Rd / Ridgemoor Ave,43.70643614257429,-79.25104443353288,Scarborough - St. Clair,Tier-3-Ignore,15
+Sharpe St / Park St (Sandown Park),43.7105975,-79.2541175,Scarborough - St. Clair,Tier-3-Ignore,15
+Howard Park Ave / Parkside Dr,43.648657,-79.458111,Bloor St W - High Park,Tier-3-Ignore,15
+Eglinton Ave W / Prospect Cemetery,43.69415,-79.45782580000001,Eglinton Ave W,Tier-3-Ignore,19
+Eglinton Ave W / Gilbert Ave,43.69254716689966,-79.46332759272917,Eglinton Ave W,Tier-3-Ignore,19
+Rogers Rd / Prospect Cemetery,43.68323,-79.455765,Eglinton Ave W,Tier-3-Ignore,23
+Bert Robinson Park,43.688028,-79.460265,Eglinton Ave W,Tier-3-Ignore,15
+Marlee Ave / York Beltline Trail,43.70163,-79.44099,Eglinton Ave W,Tier-3-Ignore,19
+Eglinton Ave W / Ennerdale Rd,43.695032348609836,-79.45302971031188,Eglinton Ave W,Tier-3-Ignore,15
+Bloor St W / Old Mill Trl,43.65016869999999,-79.4963345,Bloor St W - High Park,Tier-3-Ignore,19
+Wendover Rd / Bloor St W (Green P),43.6492,-79.50601999999999,Bloor St W - High Park,Tier-3-Ignore,15
+Luttrell Ave / Danforth Ave,43.6897656,-79.2939525,Danforth,Tier-2-Feeder,15
+Willingdon Blvd / Bloor St W (Green P),43.64817,-79.510392,Bloor St W - High Park,Tier-3-Ignore,15
+1926 Lake Shore Blvd W,43.6357643,-79.4674917,Humber Bay Shores,Tier-3-Ignore,23
+36 Park Lawn Rd,43.62369169999999,-79.4838132,Humber Bay Shores,Tier-3-Ignore,15
+Walter Saunders Park,43.699327072589426,-79.4493630391668,Eglinton Ave W,Tier-3-Ignore,15
+Park Lawn Rd / Berry Rd,43.63605238134247,-79.49325238769686,Bloor St W - High Park,Tier-3-Ignore,15
+Tobermory Dr / Finch Corridor Trail,43.761817236772615,-79.5107049103119,North York - York U,Tier-3-Ignore,19
+The Well,43.643025055165865,-79.39430137761319,South,Tier-1-Core,19
+Driftwood Ave / Finch Corridor Trail,43.7603624,-79.5162777,North York - York U,Tier-3-Ignore,19
+The Pond Rd / Shoreham Dr,43.772445,-79.511912,North York - York U,Tier-3-Ignore,15
+Grand Avenue Park,43.623708,-79.490054,Humber Bay Shores,Tier-3-Ignore,23
+Moss Park,43.655972,-79.370638,Distillery District,Tier-1-Core,15
+College St / Henry St ,43.6591529,-79.3947953,U of T - Hospital Row,Tier-1-Core,14
+St. John's Rd / Dundas St W,43.66526761605873,-79.47502122887077,Bloor St W - High Park,Tier-3-Ignore,15
+Albany Ave / Bloor St W,43.66554144421798,-79.41010317605742,Annex,Tier-2-Feeder,15
+Pioneer Village Subway Station,43.77649016265579,-79.5085364909097,North York - York U,Tier-3-Ignore,11
+Armoury St / Chestnut St,43.65351799690878,-79.38591063795928,Financial District,Tier-1-Core,14
+Lake Shore Blvd W / Brow Dr,43.591410003452495,-79.54418190344097,Humber Bay Shores,Tier-3-Ignore,15
+Spadina Ave / Sullivan St,43.65082785552666,-79.39698099821702,Entertainment District,Tier-1-Core,23
+St. Clair Ave W / Osler St,43.6739269797493,-79.46068479021301,St Clair Ave W,Tier-3-Ignore,11
+Simcoe St / King St W,43.647508351306186,-79.38604436555764,Financial District,Tier-1-Core,15
+Grenoble Dr / Gateway Blvd,43.71513211098082,-79.33413623320465,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,14
+Grenoble Dr / Deauville Ln,43.71649675774656,-79.33089439933623,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Grenoble Dr / Vendome Pl,43.715537998967406,-79.32811427663442,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+Ferrand Dr / Rochefort Dr,43.719632535237835,-79.33199950866776,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,19
+Thorncliffe Park Dr / Leaside Park Trail,43.70400405297843,-79.34807015078738,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+75 Thorncliffe Park Dr,43.70518328279426,-79.34224729962946,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+165 McRae Dr,43.70587454662511,-79.36800595602851,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Mount Pleasant Rd / Davisville Ave - SMART,43.70088225686968,-79.38736016665911,Mid Town,Tier-3-Ignore,16
+St. Clair Ave W / Avenue Rd ,43.68688938028234,-79.40099513147447,Mid Town,Tier-3-Ignore,15
+Downsview Park Subway Station - SMART,43.753107,-79.479626,North York - York U,Tier-3-Ignore,20
+60 Carl Hall Rd - SMART,43.74796393423666,-79.47521217354125,North York - York U,Tier-3-Ignore,20
+Downsview Park Blvd / Keele St  - SMART,43.73673829262113,-79.48227195568086,North York - York U,Tier-3-Ignore,18
+Keele St / Dovehouse Ave - SMART,43.7494501,-79.4869662,North York - York U,Tier-3-Ignore,16
+HTO Park West,43.63737145931921,-79.38976958703309,Waterfront,Tier-1-Core,31
+Queens Quay E / Lower Jarvis St ,43.64392767366328,-79.3687301736982,Waterfront,Tier-1-Core,22
+Lynn Williams St / Pirandello St ,43.639124514797004,-79.41423166721611,Liberty Village,Tier-2-Feeder,17
+Ossington Ave / Bruce St,43.64570236705167,-79.41933192053696,Liberty Village,Tier-2-Feeder,15
+Gladstone Ave / Queen St W,43.64314139337404,-79.42728015945511,West,Tier-3-Ignore,15
+York St / Harbour St (Love Park),43.64101663053319,-79.38035903750381,Waterfront,Tier-1-Core,16
+Dundas St E / River St,43.661152,-79.358505,Distillery District,Tier-1-Core,19
+Shuter St/River St,43.659296,-79.358035,Distillery District,Tier-1-Core,15
+Danforth Ave / Danforth Rd,43.69362206784152,-79.27710529695892,Scarborough - St. Clair,Tier-3-Ignore,15
+Brimley Rd / McCowan District Park,43.72704086366749,-79.24391402446746,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Parkcrest Dr / Kingston Rd,43.73596719224253,-79.21995221481933,Scarborough - Rouge Hill,Tier-3-Ignore,15
+King St W / Jameson Ave - SMART,43.63735795888104,-79.43617975886079,Liberty Village,Tier-2-Feeder,12
+Scarborough Soccer Centre,43.7154661,-79.2876595,Scarborough - St. Clair,Tier-3-Ignore,19
+Lansdowne Ave / Seaforth Ave ,43.642904395956684,-79.43746059447746,West,Tier-3-Ignore,12
+Pharmacy Ave / Teesdale Pl,43.697356080874876,-79.28528711019696,Scarborough - St. Clair,Tier-3-Ignore,19
+Danforth Rd / Birchmount Rd ,43.70688,-79.26850999999999,Scarborough - St. Clair,Tier-3-Ignore,15
+552 Birchmount Rd,43.71176278859601,-79.27028152889692,Scarborough - St. Clair,Tier-3-Ignore,15
+Eastgate Cres / Pharmacy Ave ,43.7110442448186,-79.29127313845584,Scarborough - St. Clair,Tier-3-Ignore,14
+Firvalley Ct / Warden Ave,43.7032112,-79.2787149,Scarborough - St. Clair,Tier-3-Ignore,19
+Avenue Rd / Cumberland St ,43.669821695059376,-79.39444614603269,Church Wellesley / Yorkville,Tier-1-Core,15
+Midland Ave / Kingston Rd,43.7128578,-79.2487086,Scarborough - St. Clair,Tier-3-Ignore,19
+Bellamy Rd S / Kingston Rd,43.7323277855009,-79.22496619876934,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Yonge St / Merton St ,43.6962750705313,-79.39629396191867,Mid Town,Tier-3-Ignore,23
+Fenwood Ht / Kingston Rd,43.72690169821676,-79.22920396582664,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Avenue Rd / Macpherson Ave ,43.67794376009951,-79.39836278587889,Davenport - Dupont,Tier-2-Feeder,15
+Bay St / Dundas St W,43.655350778457056,-79.38345966759798,Financial District,Tier-1-Core,55
+Shaw St / King St W,43.6412561641921,-79.41502994047545,Liberty Village,Tier-2-Feeder,15
+Soudan Ave / Yonge St ,43.70430959999999,-79.3972815,Mid Town,Tier-3-Ignore,19
+Avenue Rd / Oxton Ave ,43.69711160305226,-79.40537298227844,Mid Town,Tier-3-Ignore,15
+1612 Danforth Ave ,43.68370788065334,-79.32262453633884,East,Tier-3-Ignore,15
+Lisgar St / Queen St W - SMART,43.64299174164139,-79.42355911563249,Liberty Village,Tier-2-Feeder,20
+Leslie St / Commissioners St  ,43.657275497390124,-79.32661544194183,Leslieville - Woodbine,Tier-2-Feeder,19
+Warden Subway Station,43.71161098023304,-79.28055565662231,Scarborough - St. Clair,Tier-3-Ignore,19
+Kingston Rd / Scarborough Golf Club Rd,43.74531103700256,-79.20970650787817,Scarborough - Rouge Hill,Tier-3-Ignore,14
+Greenwood Ave / Gerrard St E,43.67036917803197,-79.32782698645094,Leslieville - Woodbine,Tier-2-Feeder,15
+Chatham Ave / Byron Ave,43.6798678328407,-79.33424613862303,Danforth,Tier-2-Feeder,15
+Wakunda Pl / O'Connor Dr,43.71602024377182,-79.3047092517501,Scarborough - St. Clair,Tier-3-Ignore,11
+Plaxton Dr / St. Clair Ave E,43.70751755961952,-79.30252066313936,Scarborough - St. Clair,Tier-3-Ignore,15
+Victoria Park Ave / Edge Park Ave,43.717678679534906,-79.29961580314475,Scarborough - St. Clair,Tier-3-Ignore,19
+Finch Subway Station ,43.781877158752955,-79.41528502874928,North York - Willowdale,Tier-3-Ignore,19
+Glencairn Subway Station,43.70925763810859,-79.44169105036657,Eglinton Ave W,Tier-3-Ignore,15
+Glen Long Community Centre,43.70820992643782,-79.45627808717194,Eglinton Ave W,Tier-3-Ignore,15
+Caledonia Rd / Lotherton Pathway,43.70756436685646,-79.46571474966814,Eglinton Ave W,Tier-3-Ignore,19
+Harvie Ave / Rogers Rd,43.68402031135697,-79.45297885330353,Eglinton Ave W,Tier-3-Ignore,19
+Ling Rd / Morningside Ave,43.766663817888656,-79.18521765344238,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Lake Shore Blvd W / Legion Rd,43.62052630763223,-79.48320224237995,Humber Bay Shores,Tier-3-Ignore,19
+Lake Shore Blvd W / Seventeenth St,43.59841926031898,-79.51561102394257,Humber Bay Shores,Tier-3-Ignore,11
+Mabelle Park,43.645389479325615,-79.5276822170925,Bloor St W - High Park,Tier-3-Ignore,15
+Islington Subway Station (Aberfoyle Cres),43.645658591546216,-79.52339938954925,Bloor St W - High Park,Tier-3-Ignore,15
+Lake Shore Blvd W / Long Branch Ave,43.59445833196281,-79.53387390859834,Humber Bay Shores,Tier-3-Ignore,11
+Uno Dr / The Queensway,43.62649329992186,-79.50358167641535,Humber Bay Shores,Tier-3-Ignore,15
+Second St / Lake Shore Blvd W,43.60191488118503,-79.49941888654288,Humber Bay Shores,Tier-3-Ignore,15
+Sixth St / Lake Shore Blvd W,43.60116229109828,-79.50416046627045,Humber Bay Shores,Tier-3-Ignore,15
+Bloor St W / Dundas St W (2),43.64285244644315,-79.53199489206543,Bloor St W - High Park,Tier-3-Ignore,15
+Gerrard St E / Nasmith Ave ,43.66273618779861,-79.36253100740966,Distillery District,Tier-1-Core,23
+Viewmount Park,43.70735572654095,-79.43723072209013,Eglinton Ave W,Tier-3-Ignore,15
+Maud St / Adelaide St W - SMART,43.6460145694434,-79.39960497726345,Entertainment District,Tier-1-Core,16
+Keele St / Ingram Dr,43.698706949666914,-79.4756586460327,Eglinton Ave W,Tier-3-Ignore,15
+York Recreation Centre,43.688153079245126,-79.48219789940566,Eglinton Ave W,Tier-3-Ignore,23
+Trethewey Dr / Black Creek Dr,43.695498400279796,-79.48809394482672,Eglinton Ave W,Tier-3-Ignore,15
+Jane St / Haney Ave,43.6743457123134,-79.4948437786083,Eglinton Ave W,Tier-3-Ignore,19
+Scarlett Rd / Eileen Ave,43.668510906505354,-79.5007648392868,West,Tier-3-Ignore,15
+Scarlett Rd / Old Scarlett Rd ,43.678276306636576,-79.50667332401198,Eglinton Ave W,Tier-3-Ignore,14
+Eglinton Ave W / Venn Cres,43.69143920681119,-79.46908634795456,Eglinton Ave W,Tier-3-Ignore,19
+Rogers Rd / Bicknell Ave,43.68189526215492,-79.4736382392868,Eglinton Ave W,Tier-3-Ignore,23
+Mallaby Park ,43.706191092397106,-79.53262795581969,Eglinton Ave W,Tier-3-Ignore,15
+Cruickshank Park,43.7023860650084,-79.52594758324148,Eglinton Ave W,Tier-3-Ignore,15
+Emmett Ave,43.68735514096443,-79.50623313806341,Eglinton Ave W,Tier-3-Ignore,19
+Jane St / Weston Rd,43.69144464414302,-79.50154583869246,Eglinton Ave W,Tier-3-Ignore,15
+Jane St / Queens Dr,43.70673804962302,-79.50477543802873,Eglinton Ave W,Tier-3-Ignore,15
+Sussex Ave / St George St,43.665304278965365,-79.39938263802871,U of T - Hospital Row,Tier-1-Core,15
+2700 Eglinton Ave W,43.69074600637147,-79.47820143344333,West,Tier-3-Ignore,43
+697 Lansdowne Ave ,43.659221843735615,-79.44277410244676,West,Tier-3-Ignore,23
+15 Price St ,43.6799477790745,-79.38994813684005,North,Tier-3-Ignore,15
+Sheppard Ave W / Chesswood Dr,43.755583971122874,-79.47446032684479,North York - York U,Tier-3-Ignore,0
+Sentinel Rd / Sheppard Ave W,43.74386580997666,-79.49181654358595,North York - York U,Tier-3-Ignore,15
+Humber River Hospital ,43.72537884183677,-79.48719674218903,North York - York U,Tier-3-Ignore,15
+Jane St / Lawrence Ave W,43.702340220597975,-79.50347389514123,Eglinton Ave W,Tier-3-Ignore,14
+Keele St / Catford Rd,43.75919330632997,-79.49001046850891,North York - York U,Tier-3-Ignore,15
+The Pond Rd / Ian Macdonald Blvd,43.77086729028769,-79.49812990660705,North York - York U,Tier-3-Ignore,15
+Oakdale Community Centre,43.74751496038769,-79.5132569853195,North York - York U,Tier-3-Ignore,14
+Jane St / Yorkwoods Gt,43.7503016975738,-79.51577557434386,North York - York U,Tier-3-Ignore,15
+Weston Rd / Sheppard Ave W,43.73262849415089,-79.5381993243286,North York - York U,Tier-3-Ignore,15
+Lindylou Rd / Lanyard Rd,43.74845421407306,-79.5504039969242,North York - York U,Tier-3-Ignore,15
+Queens Quay E / Merchants' Wharf,43.64643026333144,-79.3618163165329,Waterfront,Tier-1-Core,27
+Wynford Heights Cres / Concorde Pl,43.72749778259739,-79.32714222209015,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+Bartley Park ,43.72211166436462,-79.30864830919265,Scarborough - St. Clair,Tier-3-Ignore,15
+Brooklawn Ave / Kingston Rd,43.721761400691236,-79.2359137196434,Scarborough - Rouge Hill,Tier-3-Ignore,11
+800 Fleet St (North),43.63682856154585,-79.40884160367011,West,Tier-3-Ignore,43
+The Kingsway / Ashley Rd,43.66279594478841,-79.51959827976225,Bloor St W - High Park,Tier-3-Ignore,15
+Dundas St W / Prince Edward Dr N,43.660324268765464,-79.51154350422973,Bloor St W - High Park,Tier-3-Ignore,19
+60 Broadway Ave,43.71024429599603,-79.39578744603273,Mid Town,Tier-3-Ignore,23
+Opposite 1103 Leslie St,43.72093164598881,-79.34989416350709,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,19
+Erskine Ave / Redpath Ave,43.712154792369496,-79.39425906322937,Mid Town,Tier-3-Ignore,14
+Overlea Blvd / Thorncliffe Park Dr,43.707555968595464,-79.34272024477463,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,19
+Millwood Rd / Southvale Dr,43.70241717215276,-79.36175932936095,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Keele St / Lloyd Ave,43.67115532642577,-79.46701597756929,St Clair Ave W,Tier-3-Ignore,15
+Arlington Parkette,43.69105005197055,-79.43281746494293,Eglinton Ave W,Tier-3-Ignore,15
+50 Overlea Blvd,43.707225,-79.345324,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,14
+University Ave / Gerrard St W - SMART(South),43.65748153286412,-79.38921396018827,U of T - Hospital Row,Tier-1-Core,16
+Queens Park Cres / College St ,43.66018127636866,-79.39083271520538,U of T - Hospital Row,Tier-1-Core,23
+Simcoe St / Elm St,43.656038841714505,-79.38970387738495,U of T - Hospital Row,Tier-1-Core,11
+Bloor St W / Kingsmill Rd,43.64927890131737,-79.50312995581972,Bloor St W - High Park,Tier-3-Ignore,11
+Gunns Rd / Lavender Creek Trail,43.675531973168354,-79.47199740066374,Eglinton Ave W,Tier-3-Ignore,15
+St. Clair Ave W / Symes Rd,43.670042134416704,-79.4789424818056,St Clair Ave W,Tier-3-Ignore,15
+Palmerston Blvd / Lennox St,43.66335070995886,-79.41312798316125,Annex,Tier-2-Feeder,11
+Princess St / Front St E,43.650297574961044,-79.36648460341635,Distillery District,Tier-1-Core,14
+365 Lippincott St,43.6649482,-79.40947,North,Tier-3-Ignore,41
+E.T Seton Park - South ,43.70503461857136,-79.33547292037659,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,23
+Eglinton Ave E / Brentcliffe Rd,43.714305793017544,-79.36089045040129,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+King St W / York St (2),43.647968822765,-79.38316961352653,Financial District,Tier-1-Core,19
+Joe Shuster Way / King St W ,43.64039672322004,-79.4237424131447,Liberty Village,Tier-2-Feeder,19
+St. George St / Willcocks St,43.662452744495575,-79.3978384219513,U of T - Hospital Row,Tier-1-Core,35
+York St / Wellington St W (2),43.647043061824,-79.38314120681535,Financial District,Tier-1-Core,27
+Rogers Rd / Watt Ave,43.68233679999999,-79.4680594,Eglinton Ave W,Tier-3-Ignore,15
+University Ave / Pearl St ,43.64836809385241,-79.3853510232788,Financial District,Tier-1-Core,19
+King St W / University Ave,43.64781808540915,-79.38427999073791,Financial District,Tier-1-Core,39
+Albion Rd/ Arcot Blvd,43.727621709316395,-79.55254902939286,North York - York U,Tier-3-Ignore,15
+Armel Ct / Albion Rd,43.721532966873205,-79.5455834809678,North York - York U,Tier-3-Ignore,19
+75 Tandridge Cres,43.729578273586064,-79.54699793872719,North York - York U,Tier-3-Ignore,15
+35 Erindale Ave,43.67729,-79.35741,East,Tier-3-Ignore,23
+Trethewey Dr / Jane St,43.697417070558615,-79.50079830912324,Eglinton Ave W,Tier-3-Ignore,19
+Duncan St / Adelaide St W - SMART,43.64813057569729,-79.38858106137695,Entertainment District,Tier-1-Core,12
+Niagara St / King St W - SMART,43.64281323408372,-79.40751415588915,Entertainment District,Tier-1-Core,24
+McRae Dr / Laird Dr - SMART,43.70979296822595,-79.36389214460489,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,24
+Strachan Ave / East Liberty St - SMART,43.63906470236988,-79.41080996164456,Liberty Village,Tier-2-Feeder,24
+Simcoe St / Pullan Pl,43.65105290412541,-79.38764943227872,Financial District,Tier-1-Core,79
+Spadina Ave / Bulwer St- SMART ,43.649354475273796,-79.39675713332855,Entertainment District,Tier-1-Core,12
+Dunn Ave / Queen St W,43.639522754211804,-79.43395976815727,Liberty Village,Tier-2-Feeder,15
+Symes Rd / Glen Scarlett Rd - SMART,43.673391524931525,-79.47798367814572,Eglinton Ave W,Tier-3-Ignore,15
+Boston Ave / Queen St E- SMART,43.661601650964336,-79.33894582857273,Leslieville - Woodbine,Tier-2-Feeder,12
+Elizabeth St / Elm St,43.6570908165693,-79.38593668834272,South,Tier-3-Ignore,23
+19 Glendora Ave,43.75921143833388,-79.40960364801701,North,Tier-3-Ignore,11
+Ramsden Park,43.676184561302776,-79.38962496400146,Davenport - Dupont,Tier-2-Feeder,15
+Adelaide St W / Bay St (South),43.65011637593798,-79.37953068860327,Financial District,Tier-1-Core,15
+Adelaide St W / Yonge St,43.65038002325664,-79.3787277120385,Financial District,Tier-1-Core,19
+Portland St / Wellington St W,43.64290167152932,-79.39937033134326,Entertainment District,Tier-1-Core,15
+Princes' Gates,43.63467323676012,-79.40897321886649,Waterfront,Tier-1-Core,17
+Lillian St / Soudan Ave - SMART,43.70607287248461,-79.39356161653288,Mid Town,Tier-3-Ignore,32
+Hanna Ave / Snooker St,43.639547,-79.420022,Liberty Village,Tier-2-Feeder,15
+Hillsdale Ave E / Mount Pleasant Rd,43.70512126615395,-79.3890271081274,Mid Town,Tier-3-Ignore,14
+OCAD University,43.65231552304792,-79.39091185000235,Entertainment District,Tier-1-Core,23
+Harbord St / Grace St (Bickford Park),43.65995363518053,-79.41787388888551,College - Harbord,Tier-2-Feeder,23
+Front St W / Spadina Ave,43.64235480340359,-79.39519751877137,Entertainment District,Tier-1-Core,31
+Richmond St W / Bathurst St,43.64666748425228,-79.40299591349182,Entertainment District,Tier-1-Core,15
+Niagara St / Queen St W ,43.64572868466845,-79.40990680181771,Liberty Village,Tier-2-Feeder,11
+Bathurst St / Housey St,43.63781903961206,-79.40013176752855,Entertainment District,Tier-1-Core,23
+Thompson St / Carroll St,43.65907064983235,-79.35240134225845,Leslieville - Woodbine,Tier-2-Feeder,15
+Crawford St / Lobb Ave,43.64654941401018,-79.41558900317995,Liberty Village,Tier-2-Feeder,23
+Fort York Blvd / Grand Magazine St,43.63758782904466,-79.40314232209015,Entertainment District,Tier-1-Core,19
+Adelaide St W / York St ,43.6491919790139,-79.38363237427446,Financial District,Tier-1-Core,19
+Church St / Shuter St,43.65505698168995,-79.37651024603271,Financial District,Tier-1-Core,14
+Adelaide St E / Parliament St,43.65378337432506,-79.36335973372954,Distillery District,Tier-1-Core,23
+Wellesley St E / Jarvis St,43.6662047,-79.37901219999999,Church Wellesley / Yorkville,Tier-1-Core,23
+Benshire Dr / The Meadoway,43.76174092019504,-79.24473961415558,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Brimley Rd / Lawrence Ave E ,43.75404854399297,-79.2553167552948,Scarborough - Rouge Hill,Tier-3-Ignore,39
+Centennial College (Ashtonbee Campus),43.73003601845614,-79.2920036521843,Scarborough - St. Clair,Tier-3-Ignore,19
+Bellamy Rd N / The Meadoway,43.76507271818177,-79.23835381614684,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Markham Rd / The Meadoway ,43.77121894873629,-79.22956526983644,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Ellesmere Rd / Markham Rd,43.77682938751077,-79.2305003612381,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Slan Ave / Scarborough Golf Club Rd,43.77327261711258,-79.21971485277862,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Cedar Dr / Eglinton Ave E,43.744208202155754,-79.21564636613158,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Kennedy Rd/Ranstone Gdns (Jack Goodlad Park),43.74190570940633,-79.27181887640458,East,Tier-3-Ignore,15
+Eglinton Ave E / Brimley Rd,43.736952572933866,-79.24798367249146,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Albany Ave / Dupont St,43.67348899977229,-79.41339520555726,Davenport - Dupont,Tier-2-Feeder,15
+Gordonridge Pl / Danforth Rd,43.72729077290258,-79.25237907196654,Scarborough - Rouge Hill,Tier-3-Ignore,15
+McCowan Rd / Trudelle St,43.74033901575211,-79.23935319629516,Scarborough - Rouge Hill,Tier-3-Ignore,19
+Bayview Ave / Finch Recreational Trail,43.789068698639504,-79.39315096004944,North York - Willowdale,Tier-3-Ignore,19
+Willowdale Ave / Bishop Ave ,43.78387252467251,-79.40786809814757,North York - Willowdale,Tier-3-Ignore,19
+Talbot Rd / Finch Hydro Corridor,43.78225298110634,-79.42367062831116,North York - Willowdale,Tier-3-Ignore,15
+Eglinton Ave E / Mason Rd ,43.742037440522616,-79.22488680080262,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Lawrence Ave E / Don Mills Trail,43.73458185912293,-79.35485399272919,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,19
+Kempford Blvd / Yonge St,43.776857235099826,-79.4151161430729,North York - Willowdale,Tier-3-Ignore,19
+Empress Ave / Yonge St,43.769395456625546,-79.41266521769707,North York - Willowdale,Tier-3-Ignore,19
+Yonge St / Sheppard Ave E,43.76128605777495,-79.41071644205269,North York - Willowdale,Tier-3-Ignore,19
+Leslie Subway Station,43.77037892370793,-79.36702734195678,North York - Willowdale,Tier-3-Ignore,15
+Yonge St / North York Blvd,43.76726589934926,-79.41263489814757,North York - Willowdale,Tier-3-Ignore,23
+Bond Ave / Don Mills Trail,43.74475834253035,-79.35348069940567,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,19
+Duncan Mill Rd / Valleybrook Dr,43.76167125342455,-79.35258302698364,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Finch Ave W / Wilmington Ave,43.77060244428048,-79.45997589178772,North York - York U,Tier-3-Ignore,19
+York Mills Rd / Lesmill Rd,43.7549215557014,-79.35174838465576,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,14
+Lake Shore Blvd W / Bathurst St,43.63675592256874,-79.39920538954927,Entertainment District,Tier-1-Core,23
+Hawksbury Dr / Sheppard Ave E ,43.76816239444779,-79.38312075158996,North York - Willowdale,Tier-3-Ignore,15
+Sheppard Ave E / Leslie St,43.77114830031903,-79.36381166455688,North York - Willowdale,Tier-3-Ignore,19
+Shaughnessy Blvd / Sheppard Ave E,43.77351462694018,-79.35306224113921,North York - Willowdale,Tier-3-Ignore,15
+Brahms Ave / Finch Ave E,43.79236326442992,-79.35836318028717,North York - Willowdale,Tier-3-Ignore,19
+Don Mills Rd / Fairview Mall Dr,43.77888550790407,-79.34837169762268,North York - Willowdale,Tier-3-Ignore,15
+Don Mills Rd / Goodview Rd,43.78394400645062,-79.35325023303736,North York - Willowdale,Tier-3-Ignore,11
+Kingston Rd / Markham Rd,43.73878438927323,-79.21746485700835,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Fairglen Cres / Weston Rd,43.70876747477083,-79.53445192394257,Eglinton Ave W,Tier-3-Ignore,11
+Wells St / Brunswick Ave,43.67105163758377,-79.40904755211488,Annex,Tier-2-Feeder,15
+Eglinton Ave E / Victoria Park Ave,43.72486103230542,-79.30351306295167,Scarborough - St. Clair,Tier-3-Ignore,11
+Eglinton Ave W / Oakwood Ave,43.69705023028765,-79.4437599043325,Eglinton Ave W,Tier-3-Ignore,15
+Scarborough GO Station,43.7170472128686,-79.25461030789113,East,Tier-3-Ignore,22
+3220 Bloor St W,43.646186757495194,-79.51762536747455,West,Tier-3-Ignore,38
+Eglinton West Subway Station,43.69867103968614,-79.43680738560357,Eglinton Ave W,Tier-3-Ignore,19
+Lawrence Ave W / Marlee Ave,43.715552692740914,-79.4461544565374,Eglinton Ave W,Tier-3-Ignore,15
+16 Riverview Gardens ,43.64883712159794,-79.48675294250663,West,Tier-3-Ignore,31
+Union Station (North),43.645649620032444,-79.38116314068574,South,Tier-3-Ignore,16
+Grantbrook St / Finch Hydro Corridor Trail,43.780468305361154,-79.43280415488479,North York - Willowdale,Tier-3-Ignore,15
+Tecumseth St / Tecumseth Pl,43.642697996199985,-79.4049993694586,Entertainment District,Tier-1-Core,11
+21 Pleasant Blvd (1),43.687211810315254,-79.39269591804246,Mid Town,Tier-3-Ignore,11
+21 Pleasant Blvd (2),43.687204264115415,-79.39269726524513,Mid Town,Tier-3-Ignore,11
+803 Richmond St W,43.644381896942434,-79.4108533793123,Liberty Village,Tier-2-Feeder,23
+385 Pacific Ave,43.6651094724602,-79.46833581423087,West,Tier-3-Ignore,29
+Brookdale Ave / Yonge St,43.72991999271573,-79.40372719797139,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,16
+1 Shortt St,43.69592993313034,-79.45190139609524,North,Tier-3-Ignore,38
+Finch Ave W / Bathurst St,43.77356135731388,-79.44404830910908,North York - York U,Tier-3-Ignore,19
+33 Queen St E,43.6523196075425,-79.37684857674785,Core-Correction,Tier-3-Ignore,31
+Cherry St / Polson St,43.643320932767004,-79.35120948518066,East,Tier-3-Ignore,19
+Logan Ave / Eastern Ave - SMART,43.657925501075496,-79.34143486929416,Leslieville - Woodbine,Tier-2-Feeder,12
+Wellington St W / Blue Jays Way,43.64473387070102,-79.39168963262681,Entertainment District,Tier-1-Core,23
+Spadina Ave / Dundas St W - SMART,43.652352301216055,-79.39801617693556,Entertainment District,Tier-1-Core,12
+Queens Quay E / Freeland St,43.64249948081925,-79.37285779318468,Waterfront,Tier-1-Core,23
+Pharmacy Ave / Eglinton Ave E ,43.72534466992445,-79.2976874085289,Scarborough - St. Clair,Tier-3-Ignore,15
+Saulter St / Queen St E - SMART,43.65897697159562,-79.34715316627046,Leslieville - Woodbine,Tier-2-Feeder,16
+Euclid Ave / Queen St W - SMART,43.64656806400965,-79.4076868902591,Entertainment District,Tier-1-Core,9
+Torresdale Ave / Finch Ave W,43.77245563489829,-79.45102085413427,North York - York U,Tier-3-Ignore,19
+Sunrise Ave / Victoria Park Ave,43.71940912890232,-79.30226117096939,Scarborough - St. Clair,Tier-3-Ignore,11
+Shaw St / College St,43.6551193,-79.4201454,College - Harbord,Tier-2-Feeder,11
+Front St E / Scott St (2),43.6476241415141,-79.37552498892019,Financial District,Tier-1-Core,11
+Jack Layton Ferry Terminal,43.64103161936887,-79.37670442726134,Waterfront,Tier-1-Core,23
+Ancaster Rd / Spalding Rd,43.73359486358252,-79.46651489022999,North York - York U,Tier-3-Ignore,15
+Roding St / Nash Dr,43.72885964584396,-79.49202997658232,North York - York U,Tier-3-Ignore,15
+Ridge Rd / Wilson Ave ,43.723786959308256,-79.49416269814759,North York - York U,Tier-3-Ignore,19
+Exbury Rd / Jane St,43.729522486553826,-79.5101425092621,North York - York U,Tier-3-Ignore,15
+Dubray Ave / Wilson Ave,43.728617628977695,-79.47800122943039,North York - York U,Tier-3-Ignore,19
+Jane St / Sheppard Ave W,43.73901341370186,-79.51286317927207,North York - York U,Tier-3-Ignore,19
+Bathurst St / Sheppard Ave W,43.7551762288098,-79.43812182651081,North York - York U,Tier-3-Ignore,15
+Finch Ave E / Upper Don Recreational Trail ,43.78893788312306,-79.37488868750592,North York - Willowdale,Tier-3-Ignore,11
+Ruddington Dr / Finch Recreational Trail,43.789781888844246,-79.38988621716194,North York - Willowdale,Tier-3-Ignore,19
+Old Cummer GO Station,43.79442338280241,-79.36925879507179,North York - Willowdale,Tier-3-Ignore,23
+Wilmington Ave / Kennard Ave,43.76115848103729,-79.4560000049282,North York - York U,Tier-3-Ignore,11
+Fairview Mall Dr / Fairview Mall Dr E,43.77967215439899,-79.3429500491085,North York - Willowdale,Tier-3-Ignore,19
+Birchmount Rd / The Meadoway,43.73893212110537,-79.28118032582971,Scarborough - St. Clair,Tier-3-Ignore,15
+Scarborough Village Park,43.74715113437855,-79.21450235913849,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Prudential Dr / Midland Ave,43.74956621257908,-79.26572190926208,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Markham Rd / Cougar Crt,43.744988965771036,-79.21944366329879,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Lawrence Ave E / Overture Rd,43.76564053924766,-79.19961493121338,East,Tier-3-Ignore,11
+Morningside Ave / Kingston Rd,43.769079266710015,-79.18711363068849,Scarborough - Rouge Hill,Tier-3-Ignore,15
+YZD,43.7368015,-79.4687878,North York - York U,Tier-3-Ignore,19
+Wilson Ave / Transit Rd (TTC Subway Station),43.733458993753736,-79.45338806896149,North York - York U,Tier-3-Ignore,23
+Homewood Ave / Wellesley St E - SMART,43.666978011780685,-79.37594518686855,Church Wellesley / Yorkville,Tier-1-Core,12
+Warden Ave / The Meadoway,43.735547813563755,-79.2905190837737,Scarborough - St. Clair,Tier-3-Ignore,11
+Galloway Rd / Kingston Rd ,43.76247244509665,-79.19469250674761,Scarborough - Rouge Hill,Tier-3-Ignore,17
+Sheppard Ave E / Brian Dr,43.7751833232896,-79.33044338101735,Scarborough North,Tier-3-Ignore,19
+Sheppard Ave E / Willowdale Ave ,43.76411174298419,-79.39833699652739,North York - Willowdale,Tier-3-Ignore,11
+Parkway Forest Dr / Forest Manor Rd (North),43.77470557954765,-79.34275329457512,North York - Willowdale,Tier-3-Ignore,19
+Parkway Forest Dr / Forest Manor Rd (South),43.769529687223894,-79.34338171403495,North York - Willowdale,Tier-3-Ignore,19
+Maxome Ave / Finch Hydro Corridor,43.78611619378111,-79.40039054088744,North York - Willowdale,Tier-3-Ignore,19
+Ionview Rd / Eglinton Ave E,43.73170279350989,-79.27149201786922,Scarborough - St. Clair,Tier-3-Ignore,11
+Gilder Dr / Midland Ave,43.7365986,-79.2578451,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Stansbury Cr / Midland Ave,43.742513527508905,-79.26124310383767,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Bay St / King St W,43.64837534148549,-79.3799828091115,Financial District,Tier-1-Core,23
+Maida Vale Park,43.73310396818645,-79.27702819926358,Scarborough - St. Clair,Tier-3-Ignore,11
+Kennedy Rd / Bertrand Ave,43.73746176713744,-79.26995937672586,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Brockley Dr / Lawrence Ave E,43.752354851176584,-79.26279658857231,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Danforth Rd / Savarin St,43.74307247062562,-79.24531812219966,Scarborough - Rouge Hill,Tier-3-Ignore,15
+Finch Ave E / Midland Ave,43.80356565011367,-79.28669605472409,Scarborough North,Tier-3-Ignore,15
+Huntingwood Dr / Midland Ave,43.79690348659038,-79.28376281529815,Scarborough North,Tier-3-Ignore,11
+Marine Parade Dr / Humber Bay Shores Park Trl,43.626461825093834,-79.47675102302073,Humber Bay Shores,Tier-3-Ignore,19
+Warden Ave / Huntingwood Dr,43.78571682234873,-79.31081039604902,Scarborough North,Tier-3-Ignore,11
+Silver Springs Blvd / Birchmount Rd,43.800737007917,-79.30671242148874,Scarborough North,Tier-3-Ignore,11
+Victoria Park Ave / Patrick Blvd ,43.7777592874974,-79.32390892420574,Scarborough North,Tier-3-Ignore,15
+Aurora Ct / Bridletowne Cir,43.79283961726625,-79.31685173498637,Scarborough North,Tier-3-Ignore,11
+Bay Mills Blvd / Birchmount Ave,43.78342986112393,-79.29955890113074,Scarborough North,Tier-3-Ignore,15
+Bridlewood Park,43.78402991418279,-79.31629774014742,Scarborough North,Tier-3-Ignore,11
+Village Green Square,43.77826306735535,-79.28174956176564,North,Tier-3-Ignore,15
+Eastview Park,43.759071409320356,-79.18945281711036,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Grenville St / Yonge St ,43.662029346625715,-79.38360958402289,Church Wellesley / Yorkville,Tier-1-Core,15
+Lawrence Ave W / Bathurst St,43.71901032217961,-79.43009089116728,Eglinton Ave W,Tier-3-Ignore,11
+Lawrence Ave W / Dufferin St,43.714317848363905,-79.45414485709222,Eglinton Ave W,Tier-3-Ignore,15
+Front St E / Cooperage St,43.65296378015573,-79.35711048354281,Distillery District,Tier-1-Core,19
+Lawrence Ave W / Renfield St,43.70402998554811,-79.4988335075738,Eglinton Ave W,Tier-3-Ignore,11
+Lawrence Ave W / Pine St,43.70177452503352,-79.50850451132469,Eglinton Ave W,Tier-3-Ignore,15
+Church St / Cypress St,43.706385752681484,-79.51671697675717,North,Tier-3-Ignore,15
+Rockcliffe Blvd / Alliance Ave,43.67651939727437,-79.48942027086547,North,Tier-3-Ignore,11
+Jane St / Woolner Ave (Woolner Park),43.67119618326082,-79.49337217955949,Eglinton Ave W,Tier-3-Ignore,15
+Jane St / Spenvalley Dr,43.740937072210514,-79.51338882645875,North,Tier-3-Ignore,15
+Baycrest Ave / Bathurst St,43.72966526118746,-79.4324727837474,North,Tier-3-Ignore,19
+Weston Rd / Gaydon Ave,43.720581848570575,-79.53729089399313,North,Tier-3-Ignore,11
+Commissioners St / Bouchette St,43.65026890973696,-79.34072579882069,South,Tier-3-Ignore,20
+Jane St / Milo Park Gt,43.76610505781775,-79.51987577480911,North York - Willowdale,Tier-3-Ignore,11
+Pape Ave / Hopedale Ave,43.69651434782748,-79.35001867455148,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,15
+Sheppard Ave W / Magellan Dr,43.73973760710352,-79.50986836326231,North York - Willowdale,Tier-3-Ignore,15
+Toronto Public Library - Agincourt,43.785521175652185,-79.29353421246093,Scarborough North,Tier-3-Ignore,15
+Kennedy Rd / Finch Recreational Trail,43.8104818757924,-79.30130778609832,Scarborough North,Tier-3-Ignore,15
+Memorial Park Ave / Kimbourne Ave ,43.69089523584503,-79.33452042883253,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+Pitfield Rd / McCowan Rd,43.787452441118305,-79.25768393212577,Scarborough North,Tier-3-Ignore,15
+Agincourt Recreation Centre,43.78809358412675,-79.2763071018949,Scarborough North,Tier-3-Ignore,15
+Brimley Rd / E Highland Creek Trail,43.79692798263339,-79.27287064947943,East,Tier-3-Ignore,11
+Midland Ave / Finch Recreational Trail,43.812642480301804,-79.29119588067526,Scarborough North,Tier-3-Ignore,15
+Brimwood Blvd / North Scarborough Green Loop,43.81173535662744,-79.27828762810728,Scarborough North,Tier-3-Ignore,11
+Bernadine St / Brimley Rd,43.76852698845291,-79.26050105123433,Scarborough North,Tier-3-Ignore,11
+Leslie Lookout Park,43.65392406360629,-79.32435874788511,South,Tier-3-Ignore,23
+Dulverton Rd / Birchmount Rd,43.748506992042074,-79.28465703552484,Wexford / Marydale,Tier-3-Ignore,11
+Lawrence Ave E / Burnview Cres,43.75649500418185,-79.2404361110925,Bendale,Tier-3-Ignore,11
+Valparaiso Ave / Lawrence Ave E,43.75496828707341,-79.24674141852182,Bendale,Tier-3-Ignore,15
+Clover Hill Park - SMART,43.665680051367,-79.38802999095444,South,Tier-3-Ignore,20
+Thistletown Community Centre,43.73532955204532,-79.56176488600637,West,Tier-3-Ignore,11
+Albion Rd / Kipling Ave (Albion Arena),43.73988873921296,-79.58264019846865,West,Tier-3-Ignore,11
+ Silverstone Dr / Stevenson Rd ,43.74471689392311,-79.58816609716355,West,Tier-3-Ignore,15
+Martin Grove Rd / Lexington Ave,43.74448185287679,-79.59565568532118,North,Tier-3-Ignore,11
+John Garland Blvd / Jamestown Cres,43.7323610923901,-79.5866111181751,West,Tier-3-Ignore,15
+Queenâ€™s Plate Dr / Rexdale Blvd,43.719562027836545,-79.60346425086402,West,Tier-3-Ignore,11
+Don Mills Rd / Barber Greene Rd,43.72728197307125,-79.34098463425687,North York - Willowdale,Tier-3-Ignore,11
+Gateway Blvd (South) / Don Mills Rd,43.70998509187834,-79.33389898527636,North York - Willowdale,Tier-3-Ignore,11
+Rochefort Dr / Don Mills Rd,43.71800535395266,-79.33740368053896,North York - Willowdale,Tier-3-Ignore,11
+Aga Khan Museum and Park (Wynford Dr),43.72571668907797,-79.33296483679571,North,Tier-3-Ignore,15
+Eglinton Ave E / Sloane Ave,43.72617147922369,-79.31308996409402,North,Tier-3-Ignore,11
+95 Beecroft Rd,43.76384867039627,-79.41393612096745,North York - Willowdale,Tier-3-Ignore,31
+Knob Hill Park,43.7439055200841,-79.25119821735181,Bendale,Tier-3-Ignore,11
+Brimley Rd / Brimorton Dr,43.76552300893413,-79.25948526995919,Bendale,Tier-3-Ignore,11
+Kitchener Rd / Kingston Rd,43.76675330423266,-79.18970074932972,East,Tier-3-Ignore,11
+James Gardens,43.670884247284015,-79.51381165484777,West,Tier-3-Ignore,11
+ George St S / The Esplanade,43.64834696880808,-79.36979739849131,South,Tier-3-Ignore,11
+Widmer St / Adelaide St W (South),43.64729988133681,-79.39131309705574,Unknown,Tier-3-Ignore,8
+Simcoe St / Wellington St W (North) 2,43.64624614286341,-79.38548851901436,Financial District,Tier-1-Core,4
+Danforth Rd / St Clair Ave E,43.717162385558574,-79.25956718831114,St Clair Ave W,Tier-3-Ignore,11
+Birchmount Rd / Eglinton Ave E,43.72932260399524,-79.27798753256445,East,Tier-3-Ignore,11
+Corvette Ave / Kennedy Rd,43.725446237972726,-79.26476852179107,Scarborough - St. Clair,Tier-3-Ignore,11
+Surrey Pl / Dr. Emily Stowe Way - SMART,43.661042840168236,-79.38796630132087,College - Harbord,Tier-2-Feeder,16
+Neilson Rd / Ellesmere Rd,43.78234921092259,-79.2047336995471,Unknown,Tier-3-Ignore,19
+Mornelle Ct / Ellesmere Rd,43.78528,-79.195423,Unknown,Tier-3-Ignore,11
+Ellesmere Rd / Scarborough Golf Club Rd ,43.77881462058817,-79.22174099253999,East,Tier-3-Ignore,15
+Scarborough Golf Club Rd / Lawrence Ave E ,43.76118061398553,-79.21603818763963,East,Tier-3-Ignore,11
+Confederation Dr / Greencrest Cr,43.75779584940286,-79.22294337682595,East,Tier-3-Ignore,15
+Livonia Pl / Neilson Rd,43.785550120556366,-79.20591707832195,East,Tier-3-Ignore,11
+Lawrence Ave E / Orton Park Rd,43.76383904974962,-79.20559912616176,East,Tier-3-Ignore,15
+Lawrence Ave E / Mossbank Dr,43.76270616161094,-79.2109974581985,East,Tier-3-Ignore,15
+Victoria Park Ave / The Meadoway,43.729021982297084,-79.30424284705222,East,Tier-3-Ignore,15
+Dan Leckie Way / Fort York Blvd,43.63920233699084,-79.39776922113043,Entertainment District,Tier-1-Core,27
+Strachan Ave / Ordnance St,43.63917310056043,-79.4105682457256,Liberty Village,Tier-2-Feeder,23
+Keelegate Dr / Keele St,43.73310385263487,-79.48330471638467,North York - York U,Tier-3-Ignore,19
+Ranee Ave / Flemington Rd (North),43.72349197485778,-79.44824247361579,North York - York U,Tier-3-Ignore,11
+Lawrence East Station,43.74966205290483,-79.27192193930078,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Woburn Ave / Avenue Rd,43.72545280998933,-79.41648817539286,North York - Willowdale,Tier-3-Ignore,15
+Portland St / Front St W,43.641634085638955,-79.3987894305286,Entertainment District,Tier-1-Core,11
+William Cragg Dr / Jane St,43.72254631047244,-79.50861414468879,North York - York U,Tier-3-Ignore,15
+Munition St / Commissioners St,43.64652927223706,-79.35032977085585,Waterfront,Tier-1-Core,15
+ Grafton Ave / Roncesvalles Ave,43.639598669893616,-79.44621279276677,Liberty Village,Tier-2-Feeder,23
+Silverthorn Ave / Pryor Ave,43.67485699930531,-79.46019152027287,St Clair Ave W,Tier-3-Ignore,23
+St. Clair Ave W / Poplar Plains Rd,43.68600191952118,-79.40395327728031,St Clair Ave W,Tier-3-Ignore,15
+Wellington St E / Church St,43.64864454643048,-79.37419421546784,Financial District,Tier-1-Core,23
+Simcoe St / Wellington St W (North) 3,43.646226683295296,-79.38553477700628,Financial District,Tier-1-Core,23
+9 Willingdon Blvd,43.64834720075349,-79.51003768899298,West,Tier-3-Ignore,39
+Linkwood Ln / Spanbridge Rd,43.7125731080812,-79.32449549150107,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+Agincourt GO Station,43.78605668943663,-79.28503072723657,Scarborough North,Tier-3-Ignore,23
+McCowan Rd / Brimorton Dr,43.765737540515055,-79.24922926555814,Scarborough - Rouge Hill,Tier-3-Ignore,11
+Osler Playground (Argyle St),43.64641961423834,-79.42182842585835,Liberty Village,Tier-2-Feeder,15
+Cherry St / Commissioners St,43.64483932280588,-79.35330371862767,Waterfront,Tier-1-Core,31
+Biidaasige Park (11 Munition St),43.64621864215001,-79.3500485188435,Waterfront,Tier-1-Core,23
+Dufferin St / King St W ,43.6391706,-79.4272676,Liberty Village,Tier-2-Feeder,23
+Antibes Dr / Bathurst St,43.78133435761008,-79.44592470500392,North York - York U,Tier-3-Ignore,15
+Laird Crosstown Station,43.71362626097812,-79.36373329276721,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,11
+16 John St,43.70133600868564,-79.51748388371117,North,Tier-3-Ignore,23
+25 St. Mary St ,43.66756931923832,-79.38749409709389,South,Tier-3-Ignore,15
+1651 Queen St E,43.66669198937586,-79.31437376868756,Core-Correction,Tier-3-Ignore,27
