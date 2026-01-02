@@ -60,7 +60,7 @@ Dundas St E / Parliament St,43.659575,-79.365769,Distillery District,Tier-1-Core
 Willcocks St / St. George St,43.662085,-79.397735,U of T - Hospital Row,Tier-1-Core,15
 Yonge St / Lake Shore Blvd E,43.643795,-79.375413,Unknown,Tier-3-Ignore,29
 Queen St W / Spadina Ave,43.649147,-79.395504,Entertainment District,Tier-1-Core,11
-25 York St â€“ Union Station South,43.643667,-79.380414,Waterfront,Tier-1-Core,11
+25 York St – Union Station South,43.643667,-79.380414,Waterfront,Tier-1-Core,11
 161 Bleecker St (South of Wellesley),43.666233,-79.373327,Church Wellesley / Yorkville,Tier-1-Core,23
 Spadina Ave / Fort York Blvd,43.640114,-79.393249,Entertainment District,Tier-1-Core,23
 King St E / Church St,43.65003919999999,-79.3733541,Financial District,Tier-1-Core,35
@@ -510,7 +510,7 @@ Guildwood GO Station (South),43.754978,-79.1971289,Scarborough - Rouge Hill,Tier
 Yonge St / Lawrence Ave E,43.7254665,-79.40115449999999,Thorncliffe Park - Sunnybrook,Tier-3-Ignore,23
 Rouge Hill GO Station,43.7805505,-79.1301203,Scarborough - Rouge Hill,Tier-3-Ignore,25
 Shaw St / Essex St - SMART,43.667076,-79.425116,Davenport - Dupont,Tier-2-Feeder,15
-Lundy Ave / Ã‰tienne BrÃ»lÃ© Park,43.6625395,-79.5030161,Bloor St W - High Park,Tier-3-Ignore,15
+Lundy Ave / Étienne Brûlé Park,43.6625395,-79.5030161,Bloor St W - High Park,Tier-3-Ignore,15
 Twelfth St / Thirteenth St,43.6002896,-79.5108692,Humber Bay Shores,Tier-3-Ignore,23
 Florence Gell Park,43.66196582326018,-79.49851065277862,Bloor St W - High Park,Tier-3-Ignore,15
 Chiltern Hill Rd / Eglinton Ave W,43.7004017,-79.4275305,Eglinton Ave W,Tier-3-Ignore,17
@@ -946,7 +946,7 @@ Albion Rd / Kipling Ave (Albion Arena),43.73988873921296,-79.58264019846865,West
  Silverstone Dr / Stevenson Rd ,43.74471689392311,-79.58816609716355,West,Tier-3-Ignore,15
 Martin Grove Rd / Lexington Ave,43.74448185287679,-79.59565568532118,North,Tier-3-Ignore,11
 John Garland Blvd / Jamestown Cres,43.7323610923901,-79.5866111181751,West,Tier-3-Ignore,15
-Queenâ€™s Plate Dr / Rexdale Blvd,43.719562027836545,-79.60346425086402,West,Tier-3-Ignore,11
+Queen’s Plate Dr / Rexdale Blvd,43.719562027836545,-79.60346425086402,West,Tier-3-Ignore,11
 Don Mills Rd / Barber Greene Rd,43.72728197307125,-79.34098463425687,North York - Willowdale,Tier-3-Ignore,11
 Gateway Blvd (South) / Don Mills Rd,43.70998509187834,-79.33389898527636,North York - Willowdale,Tier-3-Ignore,11
 Rochefort Dr / Don Mills Rd,43.71800535395266,-79.33740368053896,North York - Willowdale,Tier-3-Ignore,11
