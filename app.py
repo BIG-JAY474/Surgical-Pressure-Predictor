@@ -74,6 +74,14 @@ def prepare_input_vector():
 # 4. PREDICTION
 if st.button("Generate Prediction"):
     input_df = prepare_input_vector()
+
+# 5. SURGICAL MAP
+# Approximate coordinates for Toronto Districts to make it feel 'Surgical'
+coords = {"Financial": [43.648, -79.381], "Waterfront": [43.639, -79.380], "Annex": [43.666, -79.403]} # Add more if you like
+if selected_district in coords:
+    st.write(f"📍 Targeting {selected_district} Sector")
+    view_state = pdk.ViewState(latitude=coords[selected_district][0], longitude=coords[selected_district][1], zoom=13)
+    st.pydeck_chart(pdk.Deck(initial_view_state=view_state, layers=[]))
     
     # Get class and probabilities
     prediction = model.predict(input_df)[0]
