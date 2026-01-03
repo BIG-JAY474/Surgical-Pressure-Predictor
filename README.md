@@ -49,7 +49,7 @@ The app is live and accepts real-time inputs for logistics planning.
 
 ### 🔗 Links
 
-* **Live Application:** `[Your Streamlit URL]`
+* **Live Application:** `[[Your Streamlit URL](https://surgical-pressure-predictor-7mpkvqe2pexeybrz6gcure.streamlit.app/)]`
 * **Training Notebook:** `[Your Kaggle URL]`
 
 ---
