@@ -50,6 +50,6 @@ The app is live and accepts real-time inputs for logistics planning.
 ### 🔗 Links
 
 * **Live Application:** `[(https://surgical-pressure-predictor-7mpkvqe2pexeybrz6gcure.streamlit.app/)]`
-* **Training Notebook:** `[Your Kaggle URL]`
+* **Training Notebook:** `[[Your Kaggle URL](https://www.kaggle.com/code/owusujulius/toronto-bikeshare-surgical-pressure-prediction)]`
 
 ---
