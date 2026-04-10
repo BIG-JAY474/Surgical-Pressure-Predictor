@@ -1,8 +1,6 @@
 # Toronto Bike Share: Surgical Pressure Predictor
 
-**A 41-feature machine learning model for real-time station rebalancing.**
-
-### 📊 Project Overview
+# 📊 Project Overview
 
 This project addresses the operational challenge of station "dock-outs" (empty stations) and "overflows" (full stations). By prioritizing **Recall over Accuracy**, the model acts as an early-warning system to identify high-pressure events 2 hours in advance, specifically tuned for the volatile transit patterns of September in Toronto.
 
