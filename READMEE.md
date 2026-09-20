@@ -1,4 +1,5 @@
 # Toronto Bike Share: Spatiotemporal Pressure & Rebalancing Predictor
+![Toronto Bike Share Dashboard](assets/dashboard_preview.png)
 
 An end-to-end machine learning pipeline and live operational web application designed to predict station-level inventory pressure across Toronto's Bike Share network.
 
