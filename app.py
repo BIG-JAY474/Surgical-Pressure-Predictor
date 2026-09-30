@@ -203,6 +203,7 @@ with col_kpi:
 st.divider()
 
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # 6. GEOSPATIAL VISUALIZATION
 # -----------------------------------------------------------------------------
 st.subheader(f"📍 Geographic Focus: {selected_district}")
@@ -221,6 +222,24 @@ view_state = pdk.ViewState(
     zoom=14,
     pitch=45
 )
+
+marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
+
+layer = pdk.Layer(
+    "ScatterplotLayer",
+    data=[{"lat": target_coord[0], "lon": target_coord[1]}],
+    get_position="[lon, lat]",
+    get_color=marker_color,
+    get_radius=220,
+    pickable=True
+)
+
+# CHANGED: Replaced Mapbox URL with free Carto Dark Matter style URL
+st.pydeck_chart(pdk.Deck(
+    map_style="https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
+    initial_view_state=view_state, 
+    layers=[layer]
+))
 
 # Marker color shifts dynamically based on status
 marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
