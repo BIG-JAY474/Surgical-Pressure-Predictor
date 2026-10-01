@@ -249,14 +249,7 @@ st.pydeck_chart(pdk.Deck(
 # Marker color shifts dynamically based on status
 marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
 
-layer = pdk.Layer(
-    "ScatterplotLayer",
-    data=[{"lat": target_coord[0], "lon": target_coord[1]}],
-    get_position="[lon, lat]",
-    get_color=marker_color,
-    get_radius=220,
-    pickable=True
-)
+
 
 st.pydeck_chart(pdk.Deck(
     map_style="mapbox://styles/mapbox/dark-v9",
