@@ -247,14 +247,3 @@ st.pydeck_chart(pdk.Deck(
     initial_view_state=view_state,
     layers=[layer]
 ))
-
-# Marker color shifts dynamically based on status
-marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
-
-
-
-st.pydeck_chart(pdk.Deck(
-    map_style="mapbox://styles/mapbox/dark-v9",
-    initial_view_state=view_state, 
-    layers=[layer]
-))
