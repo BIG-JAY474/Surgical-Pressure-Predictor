@@ -85,7 +85,7 @@ districts = sorted(districts) if districts else ["Financial District", "Waterfro
 # 3. SIDEBAR CONTROLS
 # -----------------------------------------------------------------------------
 with st.sidebar:
-    st.image("https://img.icons8.com/isometric/100/bicycle.png", width=64)
+    st.image("https://img.icons8.com/isometric/100/bicycle.png", width=64)  # <-- LINE 49
     st.title("Control Panel")
     st.caption("Adjust real-time conditions")
     st.divider()
