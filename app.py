@@ -208,15 +208,6 @@ st.divider()
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
-layer = pdk.Layer(
-    "ScatterplotLayer",
-    data=[{"lat": target_coord[0], "lon": target_coord[1]}],
-    get_position="[lon, lat]",
-    get_color=marker_color,
-    get_radius=220,
-    pickable=True
-)
-# -----------------------------------------------------------------------------
 # 6. GEOSPATIAL VISUALIZATION
 # -----------------------------------------------------------------------------
 st.subheader(f"📍 Geographic Focus: {selected_district}")
@@ -239,7 +230,6 @@ view_state = pdk.ViewState(
 # Marker color shifts dynamically based on status (Red for Alert, Green for Stable)
 marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
 
-# Define layer FIRST before using it in Deck
 layer = pdk.Layer(
     "ScatterplotLayer",
     data=[{"lat": target_coord[0], "lon": target_coord[1]}],
@@ -253,5 +243,16 @@ layer = pdk.Layer(
 st.pydeck_chart(pdk.Deck(
     map_style="https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
     initial_view_state=view_state,
+    layers=[layer]
+))
+
+# Marker color shifts dynamically based on status
+marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
+
+
+
+st.pydeck_chart(pdk.Deck(
+    map_style="mapbox://styles/mapbox/dark-v9",
+    initial_view_state=view_state, 
     layers=[layer]
 ))
