@@ -4,6 +4,8 @@ import pandas as pd
 import joblib
 import pydeck as pdk
 import numpy as np
+import shap
+import matplotlib.pyplot as plt
 
 # -----------------------------------------------------------------------------
 # 1. PAGE CONFIG & CUSTOM STYLING (BEAUTIFICATION)
@@ -158,6 +160,46 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 input_df = prepare_input_vector()
+
+# Create tabs for Main Predictor and Model Explainability
+tab1, tab2 = st.tabs(["🚀 Live Predictor", "🔍 Model Explainability (SHAP)"])
+
+with tab1:
+    # Move your current Prediction Cards, Metrics, and Map code inside Tab 1
+    ...
+
+with tab2:
+    st.subheader("📊 SHAP Feature Impact Breakdown")
+    st.write(
+        "This view decomposes the current prediction into individual feature contributions, "
+        "showing exactly what driven the model's confidence."
+    )
+    
+    # Initialize TreeExplainer for LightGBM
+    explainer = shap.TreeExplainer(model)
+    shap_values = explainer(input_df)
+    
+    # Generate Waterfall Plot for the active prediction
+    fig, ax = plt.subplots(figsize=(10, 5))
+    
+    # Class 1 (High Pressure) SHAP values
+    if isinstance(shap_values.values, list):
+        # If binary classification output is a list of arrays
+        sv = shap_values[0][:, 1]
+    elif len(shap_values.values.shape) == 3:
+        sv = shap.Explanation(
+            values=shap_values.values[0, :, 1],
+            base_values=shap_values.base_values[0, 1],
+            data=input_df.iloc[0],
+            feature_names=model_features
+        )
+    else:
+        sv = shap_values[0]
+        
+    shap.plots.waterfall(sv, max_display=10, show=False)
+    plt.tight_layout()
+    
+    st.pyplot(fig)
 
 # Model Execution
 prediction = model.predict(input_df)[0]
