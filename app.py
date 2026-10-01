@@ -228,7 +228,6 @@ view_state = pdk.ViewState(
 )
 
 # Marker color shifts dynamically based on status (Red for Alert, Green for Stable)
-marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
 
 layer = pdk.Layer(
     "ScatterplotLayer",
