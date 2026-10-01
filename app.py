@@ -208,6 +208,7 @@ st.divider()
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # 6. GEOSPATIAL VISUALIZATION
 # -----------------------------------------------------------------------------
 st.subheader(f"📍 Geographic Focus: {selected_district}")
@@ -230,6 +231,7 @@ view_state = pdk.ViewState(
 # Marker color shifts dynamically based on status (Red for Alert, Green for Stable)
 marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
 
+# Define layer FIRST before using it in Deck
 layer = pdk.Layer(
     "ScatterplotLayer",
     data=[{"lat": target_coord[0], "lon": target_coord[1]}],
