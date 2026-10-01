@@ -1,5 +1,8 @@
 # Toronto Bike Share: Spatiotemporal Pressure & Rebalancing Predictor
 ![Toronto Bike Share Dashboard](assets/dashboard_preview.png)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://surgical-pressure-predictor-7mpkvqe2pexeybrz6gcure.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
 An end-to-end machine learning pipeline and live operational web application designed to predict station-level inventory pressure across Toronto's Bike Share network.
 
