@@ -204,6 +204,7 @@ st.divider()
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # 6. GEOSPATIAL VISUALIZATION
 # -----------------------------------------------------------------------------
 st.subheader(f"📍 Geographic Focus: {selected_district}")
@@ -223,6 +224,7 @@ view_state = pdk.ViewState(
     pitch=45
 )
 
+# Marker color shifts dynamically based on status (Red for Alert, Green for Stable)
 marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
 
 layer = pdk.Layer(
@@ -234,10 +236,10 @@ layer = pdk.Layer(
     pickable=True
 )
 
-# CHANGED: Replaced Mapbox URL with free Carto Dark Matter style URL
+# Render single Carto Dark Matter map
 st.pydeck_chart(pdk.Deck(
     map_style="https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
-    initial_view_state=view_state, 
+    initial_view_state=view_state,
     layers=[layer]
 ))
 
