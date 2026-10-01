@@ -84,8 +84,11 @@ districts = sorted(districts) if districts else ["Financial District", "Waterfro
 # -----------------------------------------------------------------------------
 # 3. SIDEBAR CONTROLS
 # -----------------------------------------------------------------------------
+# NEW CODE
 with st.sidebar:
-    st.image("assets/System Icon.jpg", width=64)
+    # Full-width banner header image
+    st.image("assets/System Icon.jpg", use_container_width=True)
+    
     st.title("Control Panel")
     st.caption("Adjust real-time conditions")
     st.divider()
