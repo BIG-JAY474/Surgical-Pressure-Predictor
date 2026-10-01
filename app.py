@@ -208,34 +208,6 @@ st.divider()
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
-# 6. GEOSPATIAL VISUALIZATION
-# -----------------------------------------------------------------------------
-st.subheader(f"📍 Geographic Focus: {selected_district}")
-
-coords = {
-    "Financial District": [43.648, -79.381],
-    "Waterfront": [43.639, -79.380],
-    "Annex": [43.666, -79.403],
-    "Entertainment District": [43.645, -79.390]
-}
-target_coord = coords.get(selected_district, [43.653, -79.383])
-
-view_state = pdk.ViewState(
-    latitude=target_coord[0],
-    longitude=target_coord[1],
-    zoom=14,
-    pitch=45
-)
-
-# Marker color shifts dynamically based on status (Red for Alert, Green for Stable)
-# Lines 251-257 in app.py
-marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
-st.pydeck_chart(pdk.Deck(
-    map_style="mapbox://styles/mapbox/dark-v9",
-    initial_view_state=view_state,
-    layers=[layer]
-))
-
 layer = pdk.Layer(
     "ScatterplotLayer",
     data=[{"lat": target_coord[0], "lon": target_coord[1]}],
@@ -244,21 +216,3 @@ layer = pdk.Layer(
     get_radius=220,
     pickable=True
 )
-
-# Render single Carto Dark Matter map
-st.pydeck_chart(pdk.Deck(
-    map_style="https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
-    initial_view_state=view_state,
-    layers=[layer]
-))
-
-# Marker color shifts dynamically based on status
-marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
-
-
-
-st.pydeck_chart(pdk.Deck(
-    map_style="mapbox://styles/mapbox/dark-v9",
-    initial_view_state=view_state, 
-    layers=[layer]
-))
