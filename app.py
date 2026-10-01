@@ -228,6 +228,13 @@ view_state = pdk.ViewState(
 )
 
 # Marker color shifts dynamically based on status (Red for Alert, Green for Stable)
+# Lines 251-257 in app.py
+marker_color = [255, 75, 75, 200] if prediction != 0 else [33, 195, 94, 200]
+st.pydeck_chart(pdk.Deck(
+    map_style="mapbox://styles/mapbox/dark-v9",
+    initial_view_state=view_state,
+    layers=[layer]
+))
 
 layer = pdk.Layer(
     "ScatterplotLayer",
