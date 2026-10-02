@@ -13,7 +13,33 @@ The system processes raw trip data, aggregates station flows into spatial tiers,
 - **Baseline vs. tuned performance:** Improved overall classification accuracy from a **50% baseline using Random Forest** to **56% using LightGBM** on unseen September ridership data.
 - **Operational precision:** A **55% confidence decision threshold** increased precision for actionable alerts to **72% for Low Pressure** and **68% for High Pressure**, reducing unnecessary interventions.
 - **Spatial tiering:** Segmented more than 1,000 stations into spatial tiers—Tier 1 Core and Tier 2 Feeder—to distinguish high-density commuter destinations from lower-signal stations.
-- **Feature engineering:** Built rolling flow rates, including three-hour moving averages; temporal lags (`t-1`, `t-2`, and `t-24`); and cyclical sine/cosine time transformations to capture rush-hour seasonality.
+- **Feature engineering:** Built rolling flow rates, including three-hour moving averages; temporal lags (`t-1`, `t-2`, and `t-24`); and cyclical sine/cosine time transformations to capture rush-hour and seasonal patterns.
+
+## 📂 Datasets & Integration
+
+The system merges three primary data sources preprocessed and hosted on Kaggle:
+
+1. **[Toronto Bikeshare Ridership (Summer)](https://www.kaggle.com/datasets/owusujulius/toronto-bikeshare-ridership-summer):** Historical Q3 trip records capturing pickup/dropoff timestamps, ride durations, and station IDs.
+2. **[Toronto Bikeshare Stations](https://www.kaggle.com/datasets/owusujulius/toronto-bikeshare-stations):** Station metadata, geographic coordinates, capacity limits, and spatial district mappings.
+3. **[Environment Canada Weather (Q3-2024)](https://www.kaggle.com/datasets/owusujulius/environment-canada-weather-q3-2024):** Hourly weather observations (temperature, precipitation, wind speed) aligned temporally with trip volume.
+
+## 🔄 Data Pipeline & Processing Flow
+
+```
+[Summer Trips Data (2.7M+ Records)]       [Environment Canada Weather (Q3)]
+│                                      │
+└───────────────────┬──────────────────┘
+                    │
+                    ▼
+         [Station Metadata & Spatial Tiers]
+                    │
+                    ▼
+      [Hourly Station Aggregation & Lags]
+   (Arrivals, Departures, Net Flow, Rolling 3h)
+                    │
+                    ▼
+      [LightGBM Spatiotemporal Predictor]
+```
 
 ## Project Architecture & Pipeline
 
@@ -58,7 +84,7 @@ The model trains on **38 engineered features** combining spatial metadata, tempo
 
 ## Model Evaluation & Decision Thresholding
 
-Standard `argmax` classification forces a decision even when predicted probabilities are uncertain. Custom confidence thresholds are applied to extreme pressure states so that operational alerts are issued only when the model has sufficient confidence.
+Standard `argmax` classification forces a decision even when predicted probabilities are uncertain. Custom confidence thresholds are applied to extreme pressure states so that operational alerts are high-precision and actionable.
 
 | Pressure State | Baseline Precision | Tuned Precision (≥ 0.55 confidence) | Primary Operational Use Case |
 |---|---:|---:|---|
